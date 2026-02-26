@@ -1,7 +1,7 @@
 {
   "version": "1.0.0",
-  "generatedAt": "2026-02-26T10:02:20.663Z",
-  "description": "静态演示数据 - 无需后端支持",
+  "generatedAt": "2026-02-26T12:38:54.056Z",
+  "description": "Static demo data - no backend required",
   "endpoints": [
     {
       "name": "cards",

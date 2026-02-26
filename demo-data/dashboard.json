@@ -18,45 +18,45 @@
   "recentActivity": [
     {
       "action": "card_issued",
-      "user": "管理员A",
+      "user": "Admin A",
       "time": "2026-02-07T14:30:00Z",
-      "details": "发放了新卡 CARD****1234"
+      "details": "Issued new card CARD****1234"
     },
     {
       "action": "transaction_completed",
-      "user": "系统自动",
+      "user": "System",
       "time": "2026-02-07T14:25:00Z",
-      "details": "交易 TXN-12345 完成"
+      "details": "Transaction TXN-12345 completed"
     },
     {
       "action": "terminal_offline",
-      "user": "系统监控",
+      "user": "System Monitor",
       "time": "2026-02-07T14:20:00Z",
-      "details": "终端 TERM-004 离线"
+      "details": "Terminal TERM-004 went offline"
     },
     {
       "action": "recharge_success",
-      "user": "客服B",
+      "user": "Agent B",
       "time": "2026-02-07T14:15:00Z",
-      "details": "充值 100元 成功"
+      "details": "Recharged ¥100 successfully"
     },
     {
       "action": "card_suspended",
-      "user": "管理员C",
+      "user": "Admin C",
       "time": "2026-02-07T14:10:00Z",
-      "details": "暂停卡片 CARD****5678"
+      "details": "Suspended card CARD****5678"
     }
   ],
   "charts": {
     "weeklyTransactions": {
       "labels": [
-        "周一",
-        "周二",
-        "周三",
-        "周四",
-        "周五",
-        "周六",
-        "周日"
+        "Mon",
+        "Tue",
+        "Wed",
+        "Thu",
+        "Fri",
+        "Sat",
+        "Sun"
       ],
       "data": [
         2800,
@@ -70,13 +70,13 @@
     },
     "weeklyRevenue": {
       "labels": [
-        "周一",
-        "周二",
-        "周三",
-        "周四",
-        "周五",
-        "周六",
-        "周日"
+        "Mon",
+        "Tue",
+        "Wed",
+        "Thu",
+        "Fri",
+        "Sat",
+        "Sun"
       ],
       "data": [
         24500,
@@ -90,10 +90,10 @@
     },
     "cardTypeDistribution": {
       "labels": [
-        "标准卡",
-        "学生卡",
-        "老年卡",
-        "员工卡"
+        "Standard",
+        "Student",
+        "Senior",
+        "Staff"
       ],
       "data": [
         8200,

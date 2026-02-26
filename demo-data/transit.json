@@ -3,7 +3,7 @@
     "data": [
       {
         "id": "ROUTE-DEMO-001",
-        "name": "1号线",
+        "name": "Line 1",
         "code": "L1",
         "type": "LINEAR",
         "color": "#E60012",
@@ -24,7 +24,7 @@
       },
       {
         "id": "ROUTE-DEMO-002",
-        "name": "2号线",
+        "name": "Line 2",
         "code": "L2",
         "type": "LINEAR",
         "color": "#009944",
@@ -45,7 +45,7 @@
       },
       {
         "id": "ROUTE-DEMO-101",
-        "name": "机场线",
+        "name": "Airport Express",
         "code": "AIRPORT",
         "type": "EXPRESS",
         "color": "#9B59B6",
@@ -64,7 +64,7 @@
       },
       {
         "id": "ROUTE-DEMO-201",
-        "name": "101路公交",
+        "name": "Bus Route 101",
         "code": "B101",
         "type": "SHUTTLE",
         "color": "#3498DB",
@@ -89,7 +89,7 @@
     "data": [
       {
         "id": "STATION-DEMO-001",
-        "name": "市中心站",
+        "name": "Central Station",
         "code": "CENTER",
         "type": "TRANSFER",
         "coordinates": {
@@ -111,7 +111,7 @@
       },
       {
         "id": "STATION-DEMO-002",
-        "name": "人民广场站",
+        "name": "People's Square Station",
         "code": "PEOPLE_SQ",
         "type": "NORMAL",
         "coordinates": {
@@ -130,7 +130,7 @@
       },
       {
         "id": "STATION-DEMO-003",
-        "name": "火车站",
+        "name": "Railway Station",
         "code": "RAILWAY",
         "type": "TRANSFER",
         "coordinates": {
@@ -151,7 +151,7 @@
       },
       {
         "id": "STATION-DEMO-016",
-        "name": "机场T1航站楼",
+        "name": "Airport Terminal T1",
         "code": "AIRPORT_T1",
         "type": "TERMINAL",
         "coordinates": {
@@ -177,12 +177,12 @@
     "data": [
       {
         "id": "VEHICLE-DEMO-001",
-        "plateNumber": "沪A12345",
+        "plateNumber": "SH-A12345",
         "type": "SUBWAY",
-        "model": "A型地铁列车",
+        "model": "Type-A Metro Train",
         "capacity": 1860,
         "routeId": "ROUTE-DEMO-001",
-        "driverName": "张师傅",
+        "driverName": "Driver Zhang",
         "driverId": "DRIVER-001",
         "status": "IN_SERVICE",
         "lastMaintenance": "2026-01-15T00:00:00Z",
@@ -199,12 +199,12 @@
       },
       {
         "id": "VEHICLE-DEMO-002",
-        "plateNumber": "沪A12346",
+        "plateNumber": "SH-A12346",
         "type": "SUBWAY",
-        "model": "A型地铁列车",
+        "model": "Type-A Metro Train",
         "capacity": 1860,
         "routeId": "ROUTE-DEMO-001",
-        "driverName": "李师傅",
+        "driverName": "Driver Li",
         "driverId": "DRIVER-002",
         "status": "IN_SERVICE",
         "lastMaintenance": "2026-01-10T00:00:00Z",

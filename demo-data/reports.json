@@ -22,17 +22,17 @@
     "newCards": 1280,
     "topStations": [
       {
-        "name": "市中心站",
+        "name": "Central Station",
         "transactions": 12500,
         "revenue": 108500
       },
       {
-        "name": "火车站",
+        "name": "Railway Station",
         "transactions": 9800,
         "revenue": 85600
       },
       {
-        "name": "机场",
+        "name": "Airport",
         "transactions": 7600,
         "revenue": 66500
       }
