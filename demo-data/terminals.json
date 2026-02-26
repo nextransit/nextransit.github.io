@@ -112,183 +112,183 @@
     },
     {
       "id": "TERM-DEMO-007",
-      "name": "University Town Terminal-7",
-      "type": "TOPUP",
-      "status": "OFFLINE",
-      "location": "University Town",
+      "name": "People's Square Terminal-7",
+      "type": "VALIDATOR",
+      "status": "ONLINE",
+      "location": "People's Square",
       "coordinates": {
-        "lat": 31.247136425589755,
-        "lng": 121.37782664413477
+        "lat": 31.311546919472736,
+        "lng": 121.1216297931265
       },
-      "lastHeartbeat": "2026-02-25T20:18:00.649Z",
-      "batteryLevel": 47,
-      "storageUsed": 54,
-      "firmwareVersion": "v2.1.3",
-      "ipAddress": "192.168.8.137",
-      "dailyTransactions": 0,
-      "dailyRevenue": 0
+      "lastHeartbeat": "2026-02-26T05:51:06.647Z",
+      "batteryLevel": 62,
+      "storageUsed": 13,
+      "firmwareVersion": "v2.1.7",
+      "ipAddress": "192.168.0.184",
+      "dailyTransactions": 10,
+      "dailyRevenue": 3205
     },
     {
       "id": "TERM-DEMO-008",
-      "name": "University Town Terminal-8",
+      "name": "Central Station Terminal-8",
       "type": "VALIDATOR",
-      "status": "OFFLINE",
-      "location": "University Town",
-      "coordinates": {
-        "lat": 31.44832424302483,
-        "lng": 121.15030450887836
-      },
-      "lastHeartbeat": "2026-02-26T08:04:13.002Z",
-      "batteryLevel": 86,
-      "storageUsed": 67,
-      "firmwareVersion": "v2.1.6",
-      "ipAddress": "192.168.4.167",
-      "dailyTransactions": 0,
-      "dailyRevenue": 0
-    },
-    {
-      "id": "TERM-DEMO-009",
-      "name": "Central Station Terminal-9",
-      "type": "TOPUP",
       "status": "ONLINE",
       "location": "Central Station",
       "coordinates": {
-        "lat": 31.08778607965028,
-        "lng": 121.00299830660406
+        "lat": 31.04036965762719,
+        "lng": 121.27098820008356
       },
-      "lastHeartbeat": "2026-02-26T02:53:30.466Z",
-      "batteryLevel": 62,
-      "storageUsed": 74,
-      "firmwareVersion": "v2.1.3",
-      "ipAddress": "192.168.5.145",
-      "dailyTransactions": 68,
-      "dailyRevenue": 1710
+      "lastHeartbeat": "2026-02-26T01:14:15.903Z",
+      "batteryLevel": 64,
+      "storageUsed": 37,
+      "firmwareVersion": "v2.1.9",
+      "ipAddress": "192.168.8.74",
+      "dailyTransactions": 557,
+      "dailyRevenue": 2456
+    },
+    {
+      "id": "TERM-DEMO-009",
+      "name": "People's Square Terminal-9",
+      "type": "VALIDATOR",
+      "status": "ONLINE",
+      "location": "People's Square",
+      "coordinates": {
+        "lat": 31.485146052043337,
+        "lng": 121.41535514163343
+      },
+      "lastHeartbeat": "2026-02-26T05:18:53.937Z",
+      "batteryLevel": 17,
+      "storageUsed": 72,
+      "firmwareVersion": "v2.1.9",
+      "ipAddress": "192.168.9.49",
+      "dailyTransactions": 391,
+      "dailyRevenue": 531
     },
     {
       "id": "TERM-DEMO-010",
-      "name": "University Town Terminal-10",
-      "type": "TOPUP",
+      "name": "Central Station Terminal-10",
+      "type": "ONBOARD",
       "status": "MAINTENANCE",
-      "location": "University Town",
+      "location": "Central Station",
       "coordinates": {
-        "lat": 31.317310505156343,
-        "lng": 121.12143285443976
+        "lat": 31.256565766082822,
+        "lng": 121.28335089736723
       },
-      "lastHeartbeat": "2026-02-26T07:09:30.853Z",
-      "batteryLevel": 91,
-      "storageUsed": 65,
-      "firmwareVersion": "v2.1.8",
-      "ipAddress": "192.168.6.231",
+      "lastHeartbeat": "2026-02-26T04:10:56.065Z",
+      "batteryLevel": 83,
+      "storageUsed": 33,
+      "firmwareVersion": "v2.1.3",
+      "ipAddress": "192.168.3.145",
       "dailyTransactions": 0,
       "dailyRevenue": 0
     },
     {
       "id": "TERM-DEMO-011",
-      "name": "Airport Terminal-11",
-      "type": "TOPUP",
+      "name": "University Town Terminal-11",
+      "type": "VALIDATOR",
       "status": "ONLINE",
-      "location": "Airport",
+      "location": "University Town",
       "coordinates": {
-        "lat": 31.1692750032109,
-        "lng": 121.18151357569161
+        "lat": 31.058434081981797,
+        "lng": 121.13461482459543
       },
-      "lastHeartbeat": "2026-02-26T00:57:20.154Z",
-      "batteryLevel": 72,
-      "storageUsed": 57,
-      "firmwareVersion": "v2.1.7",
-      "ipAddress": "192.168.6.64",
-      "dailyTransactions": 220,
-      "dailyRevenue": 28
+      "lastHeartbeat": "2026-02-26T06:51:37.632Z",
+      "batteryLevel": 54,
+      "storageUsed": 3,
+      "firmwareVersion": "v2.1.4",
+      "ipAddress": "192.168.0.104",
+      "dailyTransactions": 964,
+      "dailyRevenue": 2230
     },
     {
       "id": "TERM-DEMO-012",
-      "name": "Commercial District Terminal-12",
+      "name": "People's Square Terminal-12",
       "type": "ONBOARD",
       "status": "ONLINE",
-      "location": "Commercial District",
+      "location": "People's Square",
       "coordinates": {
-        "lat": 31.210283870742522,
-        "lng": 121.30663901586696
+        "lat": 31.33133882958685,
+        "lng": 121.42631215282213
       },
-      "lastHeartbeat": "2026-02-26T06:19:38.723Z",
-      "batteryLevel": 79,
-      "storageUsed": 7,
-      "firmwareVersion": "v2.1.2",
-      "ipAddress": "192.168.1.92",
-      "dailyTransactions": 98,
-      "dailyRevenue": 2223
+      "lastHeartbeat": "2026-02-26T13:37:48.547Z",
+      "batteryLevel": 93,
+      "storageUsed": 30,
+      "firmwareVersion": "v2.1.6",
+      "ipAddress": "192.168.9.34",
+      "dailyTransactions": 582,
+      "dailyRevenue": 1732
     },
     {
       "id": "TERM-DEMO-013",
-      "name": "Commercial District Terminal-13",
-      "type": "TOPUP",
+      "name": "University Town Terminal-13",
+      "type": "VALIDATOR",
       "status": "ONLINE",
-      "location": "Commercial District",
+      "location": "University Town",
       "coordinates": {
-        "lat": 31.055605813398078,
-        "lng": 121.28655948930302
+        "lat": 31.001301599892507,
+        "lng": 121.18353104336495
       },
-      "lastHeartbeat": "2026-02-26T06:28:02.977Z",
-      "batteryLevel": 72,
-      "storageUsed": 33,
-      "firmwareVersion": "v2.1.1",
-      "ipAddress": "192.168.7.58",
-      "dailyTransactions": 578,
-      "dailyRevenue": 48
+      "lastHeartbeat": "2026-02-26T12:46:41.669Z",
+      "batteryLevel": 69,
+      "storageUsed": 20,
+      "firmwareVersion": "v2.1.6",
+      "ipAddress": "192.168.0.103",
+      "dailyTransactions": 624,
+      "dailyRevenue": 3202
     },
     {
       "id": "TERM-DEMO-014",
-      "name": "Airport Terminal-14",
+      "name": "Railway Station Terminal-14",
       "type": "VALIDATOR",
       "status": "ONLINE",
-      "location": "Airport",
+      "location": "Railway Station",
       "coordinates": {
-        "lat": 31.159057265205497,
-        "lng": 121.45089953398843
+        "lat": 31.4202496890442,
+        "lng": 121.34329451419123
       },
-      "lastHeartbeat": "2026-02-25T16:33:49.064Z",
-      "batteryLevel": 67,
-      "storageUsed": 69,
-      "firmwareVersion": "v2.1.5",
-      "ipAddress": "192.168.4.178",
-      "dailyTransactions": 242,
-      "dailyRevenue": 1529
+      "lastHeartbeat": "2026-02-25T20:41:01.345Z",
+      "batteryLevel": 5,
+      "storageUsed": 2,
+      "firmwareVersion": "v2.1.8",
+      "ipAddress": "192.168.6.143",
+      "dailyTransactions": 681,
+      "dailyRevenue": 2720
     },
     {
       "id": "TERM-DEMO-015",
       "name": "Railway Station Terminal-15",
       "type": "VALIDATOR",
-      "status": "ONLINE",
+      "status": "MAINTENANCE",
       "location": "Railway Station",
       "coordinates": {
-        "lat": 31.199533762524826,
-        "lng": 121.24227764159703
+        "lat": 31.19907724796284,
+        "lng": 121.05656261648743
       },
-      "lastHeartbeat": "2026-02-26T02:27:37.829Z",
-      "batteryLevel": 95,
-      "storageUsed": 74,
-      "firmwareVersion": "v2.1.8",
-      "ipAddress": "192.168.0.160",
-      "dailyTransactions": 554,
-      "dailyRevenue": 854
+      "lastHeartbeat": "2026-02-26T10:19:31.009Z",
+      "batteryLevel": 98,
+      "storageUsed": 36,
+      "firmwareVersion": "v2.1.3",
+      "ipAddress": "192.168.9.99",
+      "dailyTransactions": 0,
+      "dailyRevenue": 0
     },
     {
       "id": "TERM-DEMO-016",
-      "name": "People's Square Terminal-16",
-      "type": "ONBOARD",
-      "status": "ONLINE",
-      "location": "People's Square",
+      "name": "Airport Terminal-16",
+      "type": "TOPUP",
+      "status": "OFFLINE",
+      "location": "Airport",
       "coordinates": {
-        "lat": 31.15579554440727,
-        "lng": 121.04216932549609
+        "lat": 31.035252135738578,
+        "lng": 121.24907708496598
       },
-      "lastHeartbeat": "2026-02-26T04:33:30.178Z",
-      "batteryLevel": 81,
-      "storageUsed": 38,
+      "lastHeartbeat": "2026-02-25T20:33:51.849Z",
+      "batteryLevel": 90,
+      "storageUsed": 68,
       "firmwareVersion": "v2.1.8",
-      "ipAddress": "192.168.1.131",
-      "dailyTransactions": 494,
-      "dailyRevenue": 2395
+      "ipAddress": "192.168.5.179",
+      "dailyTransactions": 0,
+      "dailyRevenue": 0
     },
     {
       "id": "TERM-DEMO-017",
@@ -297,592 +297,592 @@
       "status": "ONLINE",
       "location": "Railway Station",
       "coordinates": {
-        "lat": 31.459976648251374,
-        "lng": 121.36945953553663
+        "lat": 31.47249291831617,
+        "lng": 121.11768093965688
       },
-      "lastHeartbeat": "2026-02-26T03:12:54.949Z",
-      "batteryLevel": 70,
-      "storageUsed": 67,
-      "firmwareVersion": "v2.1.1",
-      "ipAddress": "192.168.1.12",
-      "dailyTransactions": 976,
-      "dailyRevenue": 1208
+      "lastHeartbeat": "2026-02-26T03:36:36.146Z",
+      "batteryLevel": 93,
+      "storageUsed": 17,
+      "firmwareVersion": "v2.1.5",
+      "ipAddress": "192.168.0.153",
+      "dailyTransactions": 149,
+      "dailyRevenue": 3890
     },
     {
       "id": "TERM-DEMO-018",
-      "name": "People's Square Terminal-18",
-      "type": "TOPUP",
+      "name": "Commercial District Terminal-18",
+      "type": "ONBOARD",
       "status": "ONLINE",
-      "location": "People's Square",
+      "location": "Commercial District",
       "coordinates": {
-        "lat": 31.092581041774782,
-        "lng": 121.23093863175683
+        "lat": 31.349275672137633,
+        "lng": 121.3760303608637
       },
-      "lastHeartbeat": "2026-02-25T17:36:25.841Z",
-      "batteryLevel": 60,
-      "storageUsed": 4,
-      "firmwareVersion": "v2.1.6",
-      "ipAddress": "192.168.2.198",
-      "dailyTransactions": 493,
-      "dailyRevenue": 4945
+      "lastHeartbeat": "2026-02-26T11:03:10.897Z",
+      "batteryLevel": 40,
+      "storageUsed": 38,
+      "firmwareVersion": "v2.1.2",
+      "ipAddress": "192.168.5.243",
+      "dailyTransactions": 637,
+      "dailyRevenue": 622
     },
     {
       "id": "TERM-DEMO-019",
-      "name": "Central Station Terminal-19",
-      "type": "TOPUP",
+      "name": "Airport Terminal-19",
+      "type": "VALIDATOR",
       "status": "ONLINE",
-      "location": "Central Station",
+      "location": "Airport",
       "coordinates": {
-        "lat": 31.27144086944635,
-        "lng": 121.35556955310165
+        "lat": 31.073364445091507,
+        "lng": 121.03329225124622
       },
-      "lastHeartbeat": "2026-02-26T02:30:47.839Z",
-      "batteryLevel": 56,
-      "storageUsed": 12,
-      "firmwareVersion": "v2.1.8",
-      "ipAddress": "192.168.0.30",
-      "dailyTransactions": 796,
-      "dailyRevenue": 3247
+      "lastHeartbeat": "2026-02-26T07:17:09.779Z",
+      "batteryLevel": 23,
+      "storageUsed": 26,
+      "firmwareVersion": "v2.1.7",
+      "ipAddress": "192.168.4.58",
+      "dailyTransactions": 453,
+      "dailyRevenue": 3594
     },
     {
       "id": "TERM-DEMO-020",
       "name": "People's Square Terminal-20",
-      "type": "TOPUP",
-      "status": "OFFLINE",
+      "type": "VALIDATOR",
+      "status": "ONLINE",
       "location": "People's Square",
       "coordinates": {
-        "lat": 31.177777610626006,
-        "lng": 121.25475772681976
+        "lat": 31.219430730203534,
+        "lng": 121.10903671651332
       },
-      "lastHeartbeat": "2026-02-25T15:17:11.257Z",
-      "batteryLevel": 55,
-      "storageUsed": 63,
-      "firmwareVersion": "v2.1.4",
-      "ipAddress": "192.168.7.43",
+      "lastHeartbeat": "2026-02-26T10:36:58.032Z",
+      "batteryLevel": 8,
+      "storageUsed": 58,
+      "firmwareVersion": "v2.1.6",
+      "ipAddress": "192.168.9.6",
+      "dailyTransactions": 655,
+      "dailyRevenue": 2043
+    },
+    {
+      "id": "TERM-DEMO-021",
+      "name": "Airport Terminal-21",
+      "type": "TOPUP",
+      "status": "ONLINE",
+      "location": "Airport",
+      "coordinates": {
+        "lat": 31.379364878856997,
+        "lng": 121.38274653859042
+      },
+      "lastHeartbeat": "2026-02-26T01:39:08.940Z",
+      "batteryLevel": 56,
+      "storageUsed": 10,
+      "firmwareVersion": "v2.1.7",
+      "ipAddress": "192.168.3.63",
+      "dailyTransactions": 917,
+      "dailyRevenue": 3879
+    },
+    {
+      "id": "TERM-DEMO-022",
+      "name": "Railway Station Terminal-22",
+      "type": "VALIDATOR",
+      "status": "OFFLINE",
+      "location": "Railway Station",
+      "coordinates": {
+        "lat": 31.106696405772315,
+        "lng": 121.49167685978651
+      },
+      "lastHeartbeat": "2026-02-25T19:44:06.143Z",
+      "batteryLevel": 92,
+      "storageUsed": 54,
+      "firmwareVersion": "v2.1.3",
+      "ipAddress": "192.168.3.159",
       "dailyTransactions": 0,
       "dailyRevenue": 0
     },
     {
-      "id": "TERM-DEMO-021",
-      "name": "University Town Terminal-21",
-      "type": "VALIDATOR",
-      "status": "ONLINE",
-      "location": "University Town",
-      "coordinates": {
-        "lat": 31.434994883805302,
-        "lng": 121.25271182197791
-      },
-      "lastHeartbeat": "2026-02-25T19:41:24.871Z",
-      "batteryLevel": 28,
-      "storageUsed": 54,
-      "firmwareVersion": "v2.1.3",
-      "ipAddress": "192.168.4.174",
-      "dailyTransactions": 906,
-      "dailyRevenue": 2981
-    },
-    {
-      "id": "TERM-DEMO-022",
-      "name": "Commercial District Terminal-22",
-      "type": "VALIDATOR",
-      "status": "ONLINE",
-      "location": "Commercial District",
-      "coordinates": {
-        "lat": 31.49441547994118,
-        "lng": 121.10630083584033
-      },
-      "lastHeartbeat": "2026-02-25T21:25:00.941Z",
-      "batteryLevel": 47,
-      "storageUsed": 72,
-      "firmwareVersion": "v2.1.6",
-      "ipAddress": "192.168.9.186",
-      "dailyTransactions": 764,
-      "dailyRevenue": 2065
-    },
-    {
       "id": "TERM-DEMO-023",
-      "name": "Railway Station Terminal-23",
-      "type": "TOPUP",
+      "name": "Airport Terminal-23",
+      "type": "ONBOARD",
       "status": "MAINTENANCE",
-      "location": "Railway Station",
+      "location": "Airport",
       "coordinates": {
-        "lat": 31.332485571044238,
-        "lng": 121.36225418398591
+        "lat": 31.035929961505627,
+        "lng": 121.34916221038942
       },
-      "lastHeartbeat": "2026-02-25T18:48:57.286Z",
-      "batteryLevel": 70,
-      "storageUsed": 39,
-      "firmwareVersion": "v2.1.4",
-      "ipAddress": "192.168.4.202",
+      "lastHeartbeat": "2026-02-25T16:02:24.192Z",
+      "batteryLevel": 27,
+      "storageUsed": 7,
+      "firmwareVersion": "v2.1.6",
+      "ipAddress": "192.168.5.156",
       "dailyTransactions": 0,
       "dailyRevenue": 0
     },
     {
       "id": "TERM-DEMO-024",
-      "name": "People's Square Terminal-24",
+      "name": "Railway Station Terminal-24",
       "type": "TOPUP",
-      "status": "MAINTENANCE",
-      "location": "People's Square",
-      "coordinates": {
-        "lat": 31.29668913868372,
-        "lng": 121.2225137575586
-      },
-      "lastHeartbeat": "2026-02-25T23:56:30.164Z",
-      "batteryLevel": 56,
-      "storageUsed": 48,
-      "firmwareVersion": "v2.1.4",
-      "ipAddress": "192.168.5.231",
-      "dailyTransactions": 0,
-      "dailyRevenue": 0
-    },
-    {
-      "id": "TERM-DEMO-025",
-      "name": "Airport Terminal-25",
-      "type": "TOPUP",
-      "status": "ONLINE",
-      "location": "Airport",
-      "coordinates": {
-        "lat": 31.2030248304984,
-        "lng": 121.31087348788623
-      },
-      "lastHeartbeat": "2026-02-26T08:47:44.340Z",
-      "batteryLevel": 90,
-      "storageUsed": 50,
-      "firmwareVersion": "v2.1.1",
-      "ipAddress": "192.168.6.229",
-      "dailyTransactions": 33,
-      "dailyRevenue": 1141
-    },
-    {
-      "id": "TERM-DEMO-026",
-      "name": "University Town Terminal-26",
-      "type": "TOPUP",
-      "status": "OFFLINE",
-      "location": "University Town",
-      "coordinates": {
-        "lat": 31.473130560262828,
-        "lng": 121.03968472923157
-      },
-      "lastHeartbeat": "2026-02-26T06:35:37.469Z",
-      "batteryLevel": 38,
-      "storageUsed": 39,
-      "firmwareVersion": "v2.1.2",
-      "ipAddress": "192.168.6.200",
-      "dailyTransactions": 0,
-      "dailyRevenue": 0
-    },
-    {
-      "id": "TERM-DEMO-027",
-      "name": "Railway Station Terminal-27",
-      "type": "VALIDATOR",
       "status": "ONLINE",
       "location": "Railway Station",
       "coordinates": {
-        "lat": 31.35552265745816,
-        "lng": 121.16082803715909
+        "lat": 31.141790462335813,
+        "lng": 121.3351974980643
       },
-      "lastHeartbeat": "2026-02-26T00:35:11.990Z",
-      "batteryLevel": 71,
-      "storageUsed": 63,
+      "lastHeartbeat": "2026-02-26T08:05:21.113Z",
+      "batteryLevel": 33,
+      "storageUsed": 41,
       "firmwareVersion": "v2.1.6",
-      "ipAddress": "192.168.7.77",
-      "dailyTransactions": 248,
-      "dailyRevenue": 299
+      "ipAddress": "192.168.1.69",
+      "dailyTransactions": 961,
+      "dailyRevenue": 3445
+    },
+    {
+      "id": "TERM-DEMO-025",
+      "name": "People's Square Terminal-25",
+      "type": "VALIDATOR",
+      "status": "ONLINE",
+      "location": "People's Square",
+      "coordinates": {
+        "lat": 31.062601462472227,
+        "lng": 121.38621086772898
+      },
+      "lastHeartbeat": "2026-02-25T23:24:12.074Z",
+      "batteryLevel": 51,
+      "storageUsed": 7,
+      "firmwareVersion": "v2.1.0",
+      "ipAddress": "192.168.7.116",
+      "dailyTransactions": 441,
+      "dailyRevenue": 287
+    },
+    {
+      "id": "TERM-DEMO-026",
+      "name": "People's Square Terminal-26",
+      "type": "ONBOARD",
+      "status": "ONLINE",
+      "location": "People's Square",
+      "coordinates": {
+        "lat": 31.297055149233188,
+        "lng": 121.05566681548466
+      },
+      "lastHeartbeat": "2026-02-25T23:24:31.851Z",
+      "batteryLevel": 57,
+      "storageUsed": 30,
+      "firmwareVersion": "v2.1.5",
+      "ipAddress": "192.168.6.47",
+      "dailyTransactions": 245,
+      "dailyRevenue": 2434
+    },
+    {
+      "id": "TERM-DEMO-027",
+      "name": "Central Station Terminal-27",
+      "type": "ONBOARD",
+      "status": "ONLINE",
+      "location": "Central Station",
+      "coordinates": {
+        "lat": 31.209350481509944,
+        "lng": 121.12465734810391
+      },
+      "lastHeartbeat": "2026-02-26T10:38:22.355Z",
+      "batteryLevel": 55,
+      "storageUsed": 9,
+      "firmwareVersion": "v2.1.5",
+      "ipAddress": "192.168.7.128",
+      "dailyTransactions": 200,
+      "dailyRevenue": 171
     },
     {
       "id": "TERM-DEMO-028",
       "name": "Railway Station Terminal-28",
       "type": "TOPUP",
-      "status": "MAINTENANCE",
+      "status": "ONLINE",
       "location": "Railway Station",
       "coordinates": {
-        "lat": 31.190193696602183,
-        "lng": 121.0280710014097
+        "lat": 31.13659158983393,
+        "lng": 121.07208747756061
       },
-      "lastHeartbeat": "2026-02-25T15:16:01.391Z",
-      "batteryLevel": 15,
-      "storageUsed": 8,
-      "firmwareVersion": "v2.1.0",
-      "ipAddress": "192.168.4.18",
-      "dailyTransactions": 0,
-      "dailyRevenue": 0
+      "lastHeartbeat": "2026-02-25T15:15:57.899Z",
+      "batteryLevel": 86,
+      "storageUsed": 2,
+      "firmwareVersion": "v2.1.1",
+      "ipAddress": "192.168.9.228",
+      "dailyTransactions": 289,
+      "dailyRevenue": 444
     },
     {
       "id": "TERM-DEMO-029",
-      "name": "University Town Terminal-29",
+      "name": "Commercial District Terminal-29",
       "type": "TOPUP",
       "status": "ONLINE",
-      "location": "University Town",
+      "location": "Commercial District",
       "coordinates": {
-        "lat": 31.126241226962396,
-        "lng": 121.06977337296141
+        "lat": 31.276608311023754,
+        "lng": 121.4109183962566
       },
-      "lastHeartbeat": "2026-02-26T10:23:17.342Z",
-      "batteryLevel": 4,
-      "storageUsed": 66,
-      "firmwareVersion": "v2.1.5",
-      "ipAddress": "192.168.2.11",
-      "dailyTransactions": 988,
-      "dailyRevenue": 48
+      "lastHeartbeat": "2026-02-26T08:43:58.753Z",
+      "batteryLevel": 13,
+      "storageUsed": 67,
+      "firmwareVersion": "v2.1.1",
+      "ipAddress": "192.168.0.174",
+      "dailyTransactions": 823,
+      "dailyRevenue": 1879
     },
     {
       "id": "TERM-DEMO-030",
-      "name": "Railway Station Terminal-30",
-      "type": "VALIDATOR",
+      "name": "Commercial District Terminal-30",
+      "type": "ONBOARD",
       "status": "OFFLINE",
-      "location": "Railway Station",
+      "location": "Commercial District",
       "coordinates": {
-        "lat": 31.343306978468362,
-        "lng": 121.04280683677263
+        "lat": 31.341673722909835,
+        "lng": 121.3019867499404
       },
-      "lastHeartbeat": "2026-02-25T14:03:29.509Z",
-      "batteryLevel": 7,
-      "storageUsed": 42,
-      "firmwareVersion": "v2.1.0",
-      "ipAddress": "192.168.9.208",
+      "lastHeartbeat": "2026-02-25T15:33:48.301Z",
+      "batteryLevel": 25,
+      "storageUsed": 66,
+      "firmwareVersion": "v2.1.9",
+      "ipAddress": "192.168.3.239",
       "dailyTransactions": 0,
       "dailyRevenue": 0
     },
     {
       "id": "TERM-DEMO-031",
-      "name": "Central Station Terminal-31",
-      "type": "ONBOARD",
+      "name": "Airport Terminal-31",
+      "type": "VALIDATOR",
       "status": "ONLINE",
-      "location": "Central Station",
+      "location": "Airport",
       "coordinates": {
-        "lat": 31.466537583115944,
-        "lng": 121.23092893949293
+        "lat": 31.24136819533849,
+        "lng": 121.17121400223228
       },
-      "lastHeartbeat": "2026-02-26T03:58:14.832Z",
-      "batteryLevel": 64,
-      "storageUsed": 18,
-      "firmwareVersion": "v2.1.8",
-      "ipAddress": "192.168.4.76",
-      "dailyTransactions": 551,
-      "dailyRevenue": 4581
+      "lastHeartbeat": "2026-02-25T22:46:58.101Z",
+      "batteryLevel": 9,
+      "storageUsed": 49,
+      "firmwareVersion": "v2.1.6",
+      "ipAddress": "192.168.8.34",
+      "dailyTransactions": 496,
+      "dailyRevenue": 343
     },
     {
       "id": "TERM-DEMO-032",
-      "name": "Central Station Terminal-32",
-      "type": "VALIDATOR",
-      "status": "OFFLINE",
-      "location": "Central Station",
+      "name": "Commercial District Terminal-32",
+      "type": "ONBOARD",
+      "status": "MAINTENANCE",
+      "location": "Commercial District",
       "coordinates": {
-        "lat": 31.088244592148907,
-        "lng": 121.04464985278962
+        "lat": 31.33166001254004,
+        "lng": 121.17768950365716
       },
-      "lastHeartbeat": "2026-02-26T08:13:23.978Z",
-      "batteryLevel": 20,
-      "storageUsed": 58,
-      "firmwareVersion": "v2.1.3",
-      "ipAddress": "192.168.7.118",
+      "lastHeartbeat": "2026-02-25T22:16:55.948Z",
+      "batteryLevel": 8,
+      "storageUsed": 72,
+      "firmwareVersion": "v2.1.0",
+      "ipAddress": "192.168.1.171",
       "dailyTransactions": 0,
       "dailyRevenue": 0
     },
     {
       "id": "TERM-DEMO-033",
-      "name": "People's Square Terminal-33",
-      "type": "ONBOARD",
-      "status": "MAINTENANCE",
-      "location": "People's Square",
+      "name": "Commercial District Terminal-33",
+      "type": "TOPUP",
+      "status": "ONLINE",
+      "location": "Commercial District",
       "coordinates": {
-        "lat": 31.275810771963705,
-        "lng": 121.32927772832588
+        "lat": 31.308505702634392,
+        "lng": 121.0095599548627
       },
-      "lastHeartbeat": "2026-02-26T03:31:07.673Z",
-      "batteryLevel": 72,
-      "storageUsed": 43,
-      "firmwareVersion": "v2.1.3",
-      "ipAddress": "192.168.6.118",
-      "dailyTransactions": 0,
-      "dailyRevenue": 0
+      "lastHeartbeat": "2026-02-25T22:43:05.208Z",
+      "batteryLevel": 83,
+      "storageUsed": 6,
+      "firmwareVersion": "v2.1.2",
+      "ipAddress": "192.168.2.179",
+      "dailyTransactions": 960,
+      "dailyRevenue": 1168
     },
     {
       "id": "TERM-DEMO-034",
       "name": "Central Station Terminal-34",
-      "type": "TOPUP",
-      "status": "ONLINE",
-      "location": "Central Station",
-      "coordinates": {
-        "lat": 31.13943803915613,
-        "lng": 121.48792843418342
-      },
-      "lastHeartbeat": "2026-02-25T13:51:20.055Z",
-      "batteryLevel": 56,
-      "storageUsed": 36,
-      "firmwareVersion": "v2.1.0",
-      "ipAddress": "192.168.7.22",
-      "dailyTransactions": 225,
-      "dailyRevenue": 2780
-    },
-    {
-      "id": "TERM-DEMO-035",
-      "name": "Central Station Terminal-35",
       "type": "ONBOARD",
       "status": "ONLINE",
       "location": "Central Station",
       "coordinates": {
-        "lat": 31.05579996203834,
-        "lng": 121.40230660555473
+        "lat": 31.311190545481566,
+        "lng": 121.04628452903441
       },
-      "lastHeartbeat": "2026-02-25T19:21:08.154Z",
-      "batteryLevel": 66,
-      "storageUsed": 72,
+      "lastHeartbeat": "2026-02-26T05:11:16.470Z",
+      "batteryLevel": 34,
+      "storageUsed": 49,
+      "firmwareVersion": "v2.1.2",
+      "ipAddress": "192.168.3.179",
+      "dailyTransactions": 265,
+      "dailyRevenue": 2283
+    },
+    {
+      "id": "TERM-DEMO-035",
+      "name": "Commercial District Terminal-35",
+      "type": "ONBOARD",
+      "status": "ONLINE",
+      "location": "Commercial District",
+      "coordinates": {
+        "lat": 31.20420277622962,
+        "lng": 121.48203685334
+      },
+      "lastHeartbeat": "2026-02-26T06:43:36.249Z",
+      "batteryLevel": 88,
+      "storageUsed": 17,
       "firmwareVersion": "v2.1.0",
-      "ipAddress": "192.168.9.123",
-      "dailyTransactions": 429,
-      "dailyRevenue": 2348
+      "ipAddress": "192.168.4.5",
+      "dailyTransactions": 780,
+      "dailyRevenue": 150
     },
     {
       "id": "TERM-DEMO-036",
       "name": "Airport Terminal-36",
       "type": "ONBOARD",
-      "status": "MAINTENANCE",
+      "status": "OFFLINE",
       "location": "Airport",
       "coordinates": {
-        "lat": 31.03618291683003,
-        "lng": 121.31386493233556
+        "lat": 31.04049257243287,
+        "lng": 121.22904056925505
       },
-      "lastHeartbeat": "2026-02-25T22:35:46.287Z",
-      "batteryLevel": 9,
-      "storageUsed": 13,
+      "lastHeartbeat": "2026-02-26T01:56:06.143Z",
+      "batteryLevel": 68,
+      "storageUsed": 70,
       "firmwareVersion": "v2.1.4",
-      "ipAddress": "192.168.6.50",
+      "ipAddress": "192.168.2.239",
       "dailyTransactions": 0,
       "dailyRevenue": 0
     },
     {
       "id": "TERM-DEMO-037",
-      "name": "University Town Terminal-37",
-      "type": "VALIDATOR",
-      "status": "ONLINE",
-      "location": "University Town",
+      "name": "Central Station Terminal-37",
+      "type": "TOPUP",
+      "status": "MAINTENANCE",
+      "location": "Central Station",
       "coordinates": {
-        "lat": 31.373515972219934,
-        "lng": 121.23915495606305
+        "lat": 31.231303316982572,
+        "lng": 121.21089805386221
       },
-      "lastHeartbeat": "2026-02-26T10:57:09.631Z",
-      "batteryLevel": 24,
-      "storageUsed": 1,
-      "firmwareVersion": "v2.1.5",
-      "ipAddress": "192.168.8.114",
-      "dailyTransactions": 981,
-      "dailyRevenue": 1933
+      "lastHeartbeat": "2026-02-26T08:34:52.456Z",
+      "batteryLevel": 68,
+      "storageUsed": 43,
+      "firmwareVersion": "v2.1.1",
+      "ipAddress": "192.168.5.199",
+      "dailyTransactions": 0,
+      "dailyRevenue": 0
     },
     {
       "id": "TERM-DEMO-038",
-      "name": "Commercial District Terminal-38",
-      "type": "TOPUP",
-      "status": "ONLINE",
-      "location": "Commercial District",
-      "coordinates": {
-        "lat": 31.343745877784745,
-        "lng": 121.49578206207772
-      },
-      "lastHeartbeat": "2026-02-25T13:09:23.932Z",
-      "batteryLevel": 38,
-      "storageUsed": 42,
-      "firmwareVersion": "v2.1.6",
-      "ipAddress": "192.168.9.10",
-      "dailyTransactions": 977,
-      "dailyRevenue": 4535
-    },
-    {
-      "id": "TERM-DEMO-039",
-      "name": "People's Square Terminal-39",
-      "type": "ONBOARD",
-      "status": "ONLINE",
-      "location": "People's Square",
-      "coordinates": {
-        "lat": 31.14029320069043,
-        "lng": 121.05251965726498
-      },
-      "lastHeartbeat": "2026-02-26T00:42:41.688Z",
-      "batteryLevel": 10,
-      "storageUsed": 31,
-      "firmwareVersion": "v2.1.3",
-      "ipAddress": "192.168.3.98",
-      "dailyTransactions": 178,
-      "dailyRevenue": 2150
-    },
-    {
-      "id": "TERM-DEMO-040",
-      "name": "Railway Station Terminal-40",
-      "type": "TOPUP",
-      "status": "ONLINE",
-      "location": "Railway Station",
-      "coordinates": {
-        "lat": 31.136856811050762,
-        "lng": 121.3599018289694
-      },
-      "lastHeartbeat": "2026-02-26T03:06:13.865Z",
-      "batteryLevel": 96,
-      "storageUsed": 8,
-      "firmwareVersion": "v2.1.4",
-      "ipAddress": "192.168.4.162",
-      "dailyTransactions": 128,
-      "dailyRevenue": 4658
-    },
-    {
-      "id": "TERM-DEMO-041",
-      "name": "Central Station Terminal-41",
-      "type": "VALIDATOR",
-      "status": "ONLINE",
-      "location": "Central Station",
-      "coordinates": {
-        "lat": 31.42854872490951,
-        "lng": 121.18210724521194
-      },
-      "lastHeartbeat": "2026-02-26T12:10:56.005Z",
-      "batteryLevel": 98,
-      "storageUsed": 49,
-      "firmwareVersion": "v2.1.4",
-      "ipAddress": "192.168.2.228",
-      "dailyTransactions": 425,
-      "dailyRevenue": 3043
-    },
-    {
-      "id": "TERM-DEMO-042",
-      "name": "Airport Terminal-42",
+      "name": "Airport Terminal-38",
       "type": "ONBOARD",
       "status": "ONLINE",
       "location": "Airport",
       "coordinates": {
-        "lat": 31.494572880304155,
-        "lng": 121.02298817710317
+        "lat": 31.002902969489327,
+        "lng": 121.48215410764797
       },
-      "lastHeartbeat": "2026-02-25T16:49:52.231Z",
-      "batteryLevel": 19,
-      "storageUsed": 63,
-      "firmwareVersion": "v2.1.9",
-      "ipAddress": "192.168.4.228",
-      "dailyTransactions": 28,
+      "lastHeartbeat": "2026-02-26T07:03:28.964Z",
+      "batteryLevel": 16,
+      "storageUsed": 75,
+      "firmwareVersion": "v2.1.4",
+      "ipAddress": "192.168.7.131",
+      "dailyTransactions": 371,
+      "dailyRevenue": 2091
+    },
+    {
+      "id": "TERM-DEMO-039",
+      "name": "Railway Station Terminal-39",
+      "type": "VALIDATOR",
+      "status": "ONLINE",
+      "location": "Railway Station",
+      "coordinates": {
+        "lat": 31.306074610897916,
+        "lng": 121.1154821491439
+      },
+      "lastHeartbeat": "2026-02-25T22:11:14.165Z",
+      "batteryLevel": 96,
+      "storageUsed": 32,
+      "firmwareVersion": "v2.1.3",
+      "ipAddress": "192.168.4.45",
+      "dailyTransactions": 121,
+      "dailyRevenue": 1950
+    },
+    {
+      "id": "TERM-DEMO-040",
+      "name": "Central Station Terminal-40",
+      "type": "TOPUP",
+      "status": "MAINTENANCE",
+      "location": "Central Station",
+      "coordinates": {
+        "lat": 31.22132745496199,
+        "lng": 121.02963009214076
+      },
+      "lastHeartbeat": "2026-02-26T13:52:33.789Z",
+      "batteryLevel": 98,
+      "storageUsed": 17,
+      "firmwareVersion": "v2.1.6",
+      "ipAddress": "192.168.2.232",
+      "dailyTransactions": 0,
       "dailyRevenue": 0
+    },
+    {
+      "id": "TERM-DEMO-041",
+      "name": "Airport Terminal-41",
+      "type": "ONBOARD",
+      "status": "ONLINE",
+      "location": "Airport",
+      "coordinates": {
+        "lat": 31.074155345828288,
+        "lng": 121.13592428579457
+      },
+      "lastHeartbeat": "2026-02-26T14:07:05.719Z",
+      "batteryLevel": 31,
+      "storageUsed": 39,
+      "firmwareVersion": "v2.1.1",
+      "ipAddress": "192.168.7.252",
+      "dailyTransactions": 957,
+      "dailyRevenue": 114
+    },
+    {
+      "id": "TERM-DEMO-042",
+      "name": "Commercial District Terminal-42",
+      "type": "ONBOARD",
+      "status": "ONLINE",
+      "location": "Commercial District",
+      "coordinates": {
+        "lat": 31.178251671082034,
+        "lng": 121.41957953039874
+      },
+      "lastHeartbeat": "2026-02-25T22:57:39.054Z",
+      "batteryLevel": 46,
+      "storageUsed": 7,
+      "firmwareVersion": "v2.1.1",
+      "ipAddress": "192.168.1.123",
+      "dailyTransactions": 771,
+      "dailyRevenue": 3828
     },
     {
       "id": "TERM-DEMO-043",
-      "name": "People's Square Terminal-43",
-      "type": "VALIDATOR",
-      "status": "MAINTENANCE",
-      "location": "People's Square",
+      "name": "University Town Terminal-43",
+      "type": "TOPUP",
+      "status": "ONLINE",
+      "location": "University Town",
       "coordinates": {
-        "lat": 31.15692460690751,
-        "lng": 121.35717161446082
+        "lat": 31.368314959322518,
+        "lng": 121.35594101986489
       },
-      "lastHeartbeat": "2026-02-26T10:06:21.274Z",
-      "batteryLevel": 71,
-      "storageUsed": 62,
-      "firmwareVersion": "v2.1.8",
-      "ipAddress": "192.168.0.153",
-      "dailyTransactions": 0,
-      "dailyRevenue": 0
+      "lastHeartbeat": "2026-02-25T22:18:55.450Z",
+      "batteryLevel": 99,
+      "storageUsed": 35,
+      "firmwareVersion": "v2.1.5",
+      "ipAddress": "192.168.5.11",
+      "dailyTransactions": 602,
+      "dailyRevenue": 4177
     },
     {
       "id": "TERM-DEMO-044",
-      "name": "People's Square Terminal-44",
-      "type": "TOPUP",
-      "status": "OFFLINE",
-      "location": "People's Square",
+      "name": "Commercial District Terminal-44",
+      "type": "ONBOARD",
+      "status": "ONLINE",
+      "location": "Commercial District",
       "coordinates": {
-        "lat": 31.179111732651,
-        "lng": 121.01012211529724
+        "lat": 31.432812644539517,
+        "lng": 121.4201840107768
       },
-      "lastHeartbeat": "2026-02-26T03:56:40.214Z",
-      "batteryLevel": 54,
-      "storageUsed": 38,
-      "firmwareVersion": "v2.1.3",
-      "ipAddress": "192.168.0.97",
-      "dailyTransactions": 0,
-      "dailyRevenue": 0
+      "lastHeartbeat": "2026-02-26T14:14:50.404Z",
+      "batteryLevel": 28,
+      "storageUsed": 48,
+      "firmwareVersion": "v2.1.2",
+      "ipAddress": "192.168.8.18",
+      "dailyTransactions": 604,
+      "dailyRevenue": 3725
     },
     {
       "id": "TERM-DEMO-045",
-      "name": "People's Square Terminal-45",
-      "type": "ONBOARD",
-      "status": "OFFLINE",
-      "location": "People's Square",
+      "name": "Commercial District Terminal-45",
+      "type": "VALIDATOR",
+      "status": "MAINTENANCE",
+      "location": "Commercial District",
       "coordinates": {
-        "lat": 31.234756535278702,
-        "lng": 121.28273864740338
+        "lat": 31.140473093454812,
+        "lng": 121.20578354337165
       },
-      "lastHeartbeat": "2026-02-26T01:42:02.365Z",
-      "batteryLevel": 40,
-      "storageUsed": 61,
-      "firmwareVersion": "v2.1.3",
-      "ipAddress": "192.168.2.102",
+      "lastHeartbeat": "2026-02-25T19:48:57.151Z",
+      "batteryLevel": 17,
+      "storageUsed": 10,
+      "firmwareVersion": "v2.1.6",
+      "ipAddress": "192.168.6.133",
       "dailyTransactions": 0,
       "dailyRevenue": 0
     },
     {
       "id": "TERM-DEMO-046",
-      "name": "Central Station Terminal-46",
+      "name": "Commercial District Terminal-46",
       "type": "TOPUP",
       "status": "ONLINE",
-      "location": "Central Station",
+      "location": "Commercial District",
       "coordinates": {
-        "lat": 31.409622714104913,
-        "lng": 121.43020600148186
+        "lat": 31.36712910804816,
+        "lng": 121.02867063197624
       },
-      "lastHeartbeat": "2026-02-25T14:02:53.948Z",
-      "batteryLevel": 39,
-      "storageUsed": 43,
-      "firmwareVersion": "v2.1.6",
-      "ipAddress": "192.168.6.6",
-      "dailyTransactions": 808,
-      "dailyRevenue": 4979
+      "lastHeartbeat": "2026-02-25T23:10:20.583Z",
+      "batteryLevel": 58,
+      "storageUsed": 11,
+      "firmwareVersion": "v2.1.2",
+      "ipAddress": "192.168.3.169",
+      "dailyTransactions": 416,
+      "dailyRevenue": 2713
     },
     {
       "id": "TERM-DEMO-047",
-      "name": "Central Station Terminal-47",
-      "type": "ONBOARD",
+      "name": "University Town Terminal-47",
+      "type": "VALIDATOR",
       "status": "ONLINE",
-      "location": "Central Station",
+      "location": "University Town",
       "coordinates": {
-        "lat": 31.140497215342837,
-        "lng": 121.01259406309799
+        "lat": 31.376170143916358,
+        "lng": 121.03270372485859
       },
-      "lastHeartbeat": "2026-02-25T23:17:46.252Z",
-      "batteryLevel": 91,
-      "storageUsed": 23,
-      "firmwareVersion": "v2.1.2",
-      "ipAddress": "192.168.3.64",
-      "dailyTransactions": 665,
-      "dailyRevenue": 131
+      "lastHeartbeat": "2026-02-26T01:57:54.481Z",
+      "batteryLevel": 5,
+      "storageUsed": 38,
+      "firmwareVersion": "v2.1.6",
+      "ipAddress": "192.168.0.229",
+      "dailyTransactions": 358,
+      "dailyRevenue": 3159
     },
     {
       "id": "TERM-DEMO-048",
       "name": "People's Square Terminal-48",
-      "type": "TOPUP",
-      "status": "MAINTENANCE",
+      "type": "ONBOARD",
+      "status": "ONLINE",
       "location": "People's Square",
       "coordinates": {
-        "lat": 31.456954927958638,
-        "lng": 121.26040815468815
+        "lat": 31.410423233382755,
+        "lng": 121.01920081591308
       },
-      "lastHeartbeat": "2026-02-25T14:18:03.209Z",
-      "batteryLevel": 20,
-      "storageUsed": 75,
-      "firmwareVersion": "v2.1.1",
-      "ipAddress": "192.168.6.47",
-      "dailyTransactions": 0,
-      "dailyRevenue": 0
+      "lastHeartbeat": "2026-02-25T16:53:32.454Z",
+      "batteryLevel": 70,
+      "storageUsed": 58,
+      "firmwareVersion": "v2.1.4",
+      "ipAddress": "192.168.2.83",
+      "dailyTransactions": 362,
+      "dailyRevenue": 1000
     },
     {
       "id": "TERM-DEMO-049",
-      "name": "University Town Terminal-49",
-      "type": "TOPUP",
-      "status": "MAINTENANCE",
-      "location": "University Town",
+      "name": "Central Station Terminal-49",
+      "type": "VALIDATOR",
+      "status": "ONLINE",
+      "location": "Central Station",
       "coordinates": {
-        "lat": 31.107324150308653,
-        "lng": 121.40997764275488
+        "lat": 31.4719642918041,
+        "lng": 121.04968218739988
       },
-      "lastHeartbeat": "2026-02-25T19:30:51.395Z",
-      "batteryLevel": 19,
-      "storageUsed": 52,
-      "firmwareVersion": "v2.1.8",
-      "ipAddress": "192.168.4.232",
-      "dailyTransactions": 0,
-      "dailyRevenue": 0
+      "lastHeartbeat": "2026-02-25T18:59:53.941Z",
+      "batteryLevel": 1,
+      "storageUsed": 73,
+      "firmwareVersion": "v2.1.6",
+      "ipAddress": "192.168.7.191",
+      "dailyTransactions": 606,
+      "dailyRevenue": 1857
     },
     {
       "id": "TERM-DEMO-050",
@@ -891,16 +891,16 @@
       "status": "ONLINE",
       "location": "Airport",
       "coordinates": {
-        "lat": 31.204503133923367,
-        "lng": 121.02774530938892
+        "lat": 31.254435930885275,
+        "lng": 121.36436041400242
       },
-      "lastHeartbeat": "2026-02-26T00:36:36.051Z",
-      "batteryLevel": 8,
-      "storageUsed": 65,
-      "firmwareVersion": "v2.1.7",
-      "ipAddress": "192.168.8.219",
-      "dailyTransactions": 500,
-      "dailyRevenue": 2522
+      "lastHeartbeat": "2026-02-26T07:11:37.830Z",
+      "batteryLevel": 58,
+      "storageUsed": 21,
+      "firmwareVersion": "v2.1.0",
+      "ipAddress": "192.168.5.234",
+      "dailyTransactions": 904,
+      "dailyRevenue": 1602
     }
   ],
   "total": 50,
