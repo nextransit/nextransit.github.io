@@ -1,0 +1,910 @@
+{
+  "data": [
+    {
+      "id": "TERM-DEMO-001",
+      "name": "市中心地铁站闸机-A01",
+      "type": "VALIDATOR",
+      "status": "ONLINE",
+      "location": "市中心地铁站",
+      "coordinates": {
+        "lat": 31.2304,
+        "lng": 121.4737
+      },
+      "lastHeartbeat": "2026-02-07T14:30:00Z",
+      "batteryLevel": 85,
+      "storageUsed": 45,
+      "firmwareVersion": "v2.1.5",
+      "ipAddress": "192.168.1.101",
+      "dailyTransactions": 1250,
+      "dailyRevenue": 8750
+    },
+    {
+      "id": "TERM-DEMO-002",
+      "name": "自助充值机-C01",
+      "type": "TOPUP",
+      "status": "ONLINE",
+      "location": "市中心地铁站大厅",
+      "coordinates": {
+        "lat": 31.2305,
+        "lng": 121.4738
+      },
+      "lastHeartbeat": "2026-02-07T14:28:00Z",
+      "batteryLevel": 100,
+      "storageUsed": 32,
+      "firmwareVersion": "v2.1.5",
+      "ipAddress": "192.168.1.102",
+      "dailyTransactions": 180,
+      "dailyRevenue": 15000
+    },
+    {
+      "id": "TERM-DEMO-003",
+      "name": "大学城站闸机-B02",
+      "type": "VALIDATOR",
+      "status": "ONLINE",
+      "location": "大学城站",
+      "coordinates": {
+        "lat": 31.15,
+        "lng": 121.4
+      },
+      "lastHeartbeat": "2026-02-07T14:29:00Z",
+      "batteryLevel": 72,
+      "storageUsed": 38,
+      "firmwareVersion": "v2.1.4",
+      "ipAddress": "192.168.2.103",
+      "dailyTransactions": 890,
+      "dailyRevenue": 3560
+    },
+    {
+      "id": "TERM-DEMO-004",
+      "name": "人民公园站闸机-C03",
+      "type": "VALIDATOR",
+      "status": "OFFLINE",
+      "location": "人民公园站",
+      "coordinates": {
+        "lat": 31.22,
+        "lng": 121.46
+      },
+      "lastHeartbeat": "2026-02-07T10:15:00Z",
+      "batteryLevel": 15,
+      "storageUsed": 65,
+      "firmwareVersion": "v2.1.3",
+      "ipAddress": "192.168.3.104",
+      "dailyTransactions": 0,
+      "dailyRevenue": 0
+    },
+    {
+      "id": "TERM-DEMO-005",
+      "name": "公交车载机-BUS-001",
+      "type": "ONBOARD",
+      "status": "ONLINE",
+      "location": "1号线公交车",
+      "coordinates": {
+        "lat": 31.225,
+        "lng": 121.465
+      },
+      "lastHeartbeat": "2026-02-07T14:31:00Z",
+      "batteryLevel": 92,
+      "storageUsed": 28,
+      "firmwareVersion": "v2.2.0",
+      "ipAddress": "10.0.1.201",
+      "dailyTransactions": 450,
+      "dailyRevenue": 1800,
+      "route": "1路",
+      "vehicleId": "BUS-001"
+    },
+    {
+      "id": "TERM-DEMO-006",
+      "name": "火车站闸机-D01",
+      "type": "VALIDATOR",
+      "status": "MAINTENANCE",
+      "location": "火车站",
+      "coordinates": {
+        "lat": 31.25,
+        "lng": 121.48
+      },
+      "lastHeartbeat": "2026-02-07T08:00:00Z",
+      "batteryLevel": 100,
+      "storageUsed": 42,
+      "firmwareVersion": "v2.1.5",
+      "ipAddress": "192.168.4.105",
+      "dailyTransactions": 0,
+      "dailyRevenue": 0
+    },
+    {
+      "id": "TERM-DEMO-007",
+      "name": "大学城终端-7",
+      "type": "ONBOARD",
+      "status": "MAINTENANCE",
+      "location": "大学城",
+      "coordinates": {
+        "lat": 31.290143721928516,
+        "lng": 121.16412319484066
+      },
+      "lastHeartbeat": "2026-02-25T10:30:49.635Z",
+      "batteryLevel": 38,
+      "storageUsed": 1,
+      "firmwareVersion": "v2.1.8",
+      "ipAddress": "192.168.5.121",
+      "dailyTransactions": 0,
+      "dailyRevenue": 0
+    },
+    {
+      "id": "TERM-DEMO-008",
+      "name": "市中心站终端-8",
+      "type": "ONBOARD",
+      "status": "ONLINE",
+      "location": "市中心站",
+      "coordinates": {
+        "lat": 31.252866758735337,
+        "lng": 121.00299743384376
+      },
+      "lastHeartbeat": "2026-02-25T17:22:18.840Z",
+      "batteryLevel": 23,
+      "storageUsed": 53,
+      "firmwareVersion": "v2.1.8",
+      "ipAddress": "192.168.5.118",
+      "dailyTransactions": 206,
+      "dailyRevenue": 1586
+    },
+    {
+      "id": "TERM-DEMO-009",
+      "name": "人民广场终端-9",
+      "type": "TOPUP",
+      "status": "ONLINE",
+      "location": "人民广场",
+      "coordinates": {
+        "lat": 31.478386248112958,
+        "lng": 121.0568889478435
+      },
+      "lastHeartbeat": "2026-02-25T10:29:05.517Z",
+      "batteryLevel": 16,
+      "storageUsed": 59,
+      "firmwareVersion": "v2.1.3",
+      "ipAddress": "192.168.6.11",
+      "dailyTransactions": 159,
+      "dailyRevenue": 2202
+    },
+    {
+      "id": "TERM-DEMO-010",
+      "name": "市中心站终端-10",
+      "type": "VALIDATOR",
+      "status": "OFFLINE",
+      "location": "市中心站",
+      "coordinates": {
+        "lat": 31.226677773903965,
+        "lng": 121.04739238561356
+      },
+      "lastHeartbeat": "2026-02-25T11:29:20.659Z",
+      "batteryLevel": 80,
+      "storageUsed": 40,
+      "firmwareVersion": "v2.1.6",
+      "ipAddress": "192.168.2.206",
+      "dailyTransactions": 0,
+      "dailyRevenue": 0
+    },
+    {
+      "id": "TERM-DEMO-011",
+      "name": "市中心站终端-11",
+      "type": "ONBOARD",
+      "status": "OFFLINE",
+      "location": "市中心站",
+      "coordinates": {
+        "lat": 31.05315880610605,
+        "lng": 121.03526062367311
+      },
+      "lastHeartbeat": "2026-02-26T08:21:47.221Z",
+      "batteryLevel": 86,
+      "storageUsed": 34,
+      "firmwareVersion": "v2.1.5",
+      "ipAddress": "192.168.3.154",
+      "dailyTransactions": 0,
+      "dailyRevenue": 0
+    },
+    {
+      "id": "TERM-DEMO-012",
+      "name": "人民广场终端-12",
+      "type": "VALIDATOR",
+      "status": "MAINTENANCE",
+      "location": "人民广场",
+      "coordinates": {
+        "lat": 31.324522790256133,
+        "lng": 121.14954437722078
+      },
+      "lastHeartbeat": "2026-02-25T21:07:37.212Z",
+      "batteryLevel": 62,
+      "storageUsed": 74,
+      "firmwareVersion": "v2.1.9",
+      "ipAddress": "192.168.9.162",
+      "dailyTransactions": 0,
+      "dailyRevenue": 0
+    },
+    {
+      "id": "TERM-DEMO-013",
+      "name": "机场终端-13",
+      "type": "ONBOARD",
+      "status": "ONLINE",
+      "location": "机场",
+      "coordinates": {
+        "lat": 31.40211640606033,
+        "lng": 121.0064000873505
+      },
+      "lastHeartbeat": "2026-02-26T02:41:06.096Z",
+      "batteryLevel": 7,
+      "storageUsed": 17,
+      "firmwareVersion": "v2.1.9",
+      "ipAddress": "192.168.7.112",
+      "dailyTransactions": 351,
+      "dailyRevenue": 1518
+    },
+    {
+      "id": "TERM-DEMO-014",
+      "name": "商业区终端-14",
+      "type": "TOPUP",
+      "status": "ONLINE",
+      "location": "商业区",
+      "coordinates": {
+        "lat": 31.42220256438843,
+        "lng": 121.11686480176547
+      },
+      "lastHeartbeat": "2026-02-25T22:55:30.592Z",
+      "batteryLevel": 28,
+      "storageUsed": 58,
+      "firmwareVersion": "v2.1.3",
+      "ipAddress": "192.168.7.17",
+      "dailyTransactions": 457,
+      "dailyRevenue": 1181
+    },
+    {
+      "id": "TERM-DEMO-015",
+      "name": "市中心站终端-15",
+      "type": "VALIDATOR",
+      "status": "ONLINE",
+      "location": "市中心站",
+      "coordinates": {
+        "lat": 31.3461219656209,
+        "lng": 121.45556995135153
+      },
+      "lastHeartbeat": "2026-02-26T00:10:42.145Z",
+      "batteryLevel": 81,
+      "storageUsed": 40,
+      "firmwareVersion": "v2.1.1",
+      "ipAddress": "192.168.0.9",
+      "dailyTransactions": 888,
+      "dailyRevenue": 610
+    },
+    {
+      "id": "TERM-DEMO-016",
+      "name": "大学城终端-16",
+      "type": "TOPUP",
+      "status": "ONLINE",
+      "location": "大学城",
+      "coordinates": {
+        "lat": 31.085676182143064,
+        "lng": 121.26644170538952
+      },
+      "lastHeartbeat": "2026-02-25T21:10:44.411Z",
+      "batteryLevel": 48,
+      "storageUsed": 60,
+      "firmwareVersion": "v2.1.9",
+      "ipAddress": "192.168.5.19",
+      "dailyTransactions": 398,
+      "dailyRevenue": 4104
+    },
+    {
+      "id": "TERM-DEMO-017",
+      "name": "机场终端-17",
+      "type": "VALIDATOR",
+      "status": "ONLINE",
+      "location": "机场",
+      "coordinates": {
+        "lat": 31.402159342362935,
+        "lng": 121.18096315590022
+      },
+      "lastHeartbeat": "2026-02-25T19:20:18.534Z",
+      "batteryLevel": 32,
+      "storageUsed": 8,
+      "firmwareVersion": "v2.1.1",
+      "ipAddress": "192.168.6.142",
+      "dailyTransactions": 842,
+      "dailyRevenue": 2414
+    },
+    {
+      "id": "TERM-DEMO-018",
+      "name": "机场终端-18",
+      "type": "ONBOARD",
+      "status": "ONLINE",
+      "location": "机场",
+      "coordinates": {
+        "lat": 31.17172284625298,
+        "lng": 121.22315623411326
+      },
+      "lastHeartbeat": "2026-02-25T10:26:17.779Z",
+      "batteryLevel": 82,
+      "storageUsed": 30,
+      "firmwareVersion": "v2.1.2",
+      "ipAddress": "192.168.7.27",
+      "dailyTransactions": 528,
+      "dailyRevenue": 2879
+    },
+    {
+      "id": "TERM-DEMO-019",
+      "name": "大学城终端-19",
+      "type": "ONBOARD",
+      "status": "ONLINE",
+      "location": "大学城",
+      "coordinates": {
+        "lat": 31.2976843770807,
+        "lng": 121.41414921173843
+      },
+      "lastHeartbeat": "2026-02-25T16:07:28.490Z",
+      "batteryLevel": 90,
+      "storageUsed": 62,
+      "firmwareVersion": "v2.1.6",
+      "ipAddress": "192.168.2.81",
+      "dailyTransactions": 193,
+      "dailyRevenue": 2124
+    },
+    {
+      "id": "TERM-DEMO-020",
+      "name": "机场终端-20",
+      "type": "TOPUP",
+      "status": "ONLINE",
+      "location": "机场",
+      "coordinates": {
+        "lat": 31.29554494146269,
+        "lng": 121.43281913711837
+      },
+      "lastHeartbeat": "2026-02-25T17:26:46.026Z",
+      "batteryLevel": 40,
+      "storageUsed": 71,
+      "firmwareVersion": "v2.1.6",
+      "ipAddress": "192.168.1.170",
+      "dailyTransactions": 469,
+      "dailyRevenue": 3136
+    },
+    {
+      "id": "TERM-DEMO-021",
+      "name": "商业区终端-21",
+      "type": "VALIDATOR",
+      "status": "ONLINE",
+      "location": "商业区",
+      "coordinates": {
+        "lat": 31.344983029142586,
+        "lng": 121.469506541507
+      },
+      "lastHeartbeat": "2026-02-26T05:55:51.849Z",
+      "batteryLevel": 27,
+      "storageUsed": 54,
+      "firmwareVersion": "v2.1.2",
+      "ipAddress": "192.168.6.56",
+      "dailyTransactions": 191,
+      "dailyRevenue": 1887
+    },
+    {
+      "id": "TERM-DEMO-022",
+      "name": "大学城终端-22",
+      "type": "TOPUP",
+      "status": "OFFLINE",
+      "location": "大学城",
+      "coordinates": {
+        "lat": 31.267051503915404,
+        "lng": 121.41824864363683
+      },
+      "lastHeartbeat": "2026-02-25T11:00:38.345Z",
+      "batteryLevel": 92,
+      "storageUsed": 9,
+      "firmwareVersion": "v2.1.0",
+      "ipAddress": "192.168.1.239",
+      "dailyTransactions": 0,
+      "dailyRevenue": 0
+    },
+    {
+      "id": "TERM-DEMO-023",
+      "name": "人民广场终端-23",
+      "type": "ONBOARD",
+      "status": "ONLINE",
+      "location": "人民广场",
+      "coordinates": {
+        "lat": 31.02407553002142,
+        "lng": 121.40219098450818
+      },
+      "lastHeartbeat": "2026-02-25T17:14:10.818Z",
+      "batteryLevel": 90,
+      "storageUsed": 39,
+      "firmwareVersion": "v2.1.3",
+      "ipAddress": "192.168.2.26",
+      "dailyTransactions": 835,
+      "dailyRevenue": 3444
+    },
+    {
+      "id": "TERM-DEMO-024",
+      "name": "商业区终端-24",
+      "type": "TOPUP",
+      "status": "OFFLINE",
+      "location": "商业区",
+      "coordinates": {
+        "lat": 31.074838049485045,
+        "lng": 121.46119428992897
+      },
+      "lastHeartbeat": "2026-02-25T12:15:41.702Z",
+      "batteryLevel": 63,
+      "storageUsed": 20,
+      "firmwareVersion": "v2.1.2",
+      "ipAddress": "192.168.3.196",
+      "dailyTransactions": 0,
+      "dailyRevenue": 0
+    },
+    {
+      "id": "TERM-DEMO-025",
+      "name": "机场终端-25",
+      "type": "VALIDATOR",
+      "status": "ONLINE",
+      "location": "机场",
+      "coordinates": {
+        "lat": 31.2062729870916,
+        "lng": 121.45040147576314
+      },
+      "lastHeartbeat": "2026-02-26T03:04:43.612Z",
+      "batteryLevel": 71,
+      "storageUsed": 52,
+      "firmwareVersion": "v2.1.8",
+      "ipAddress": "192.168.8.169",
+      "dailyTransactions": 806,
+      "dailyRevenue": 4376
+    },
+    {
+      "id": "TERM-DEMO-026",
+      "name": "人民广场终端-26",
+      "type": "VALIDATOR",
+      "status": "MAINTENANCE",
+      "location": "人民广场",
+      "coordinates": {
+        "lat": 31.142938635928775,
+        "lng": 121.0082539037455
+      },
+      "lastHeartbeat": "2026-02-26T05:05:14.884Z",
+      "batteryLevel": 49,
+      "storageUsed": 1,
+      "firmwareVersion": "v2.1.8",
+      "ipAddress": "192.168.5.57",
+      "dailyTransactions": 0,
+      "dailyRevenue": 0
+    },
+    {
+      "id": "TERM-DEMO-027",
+      "name": "人民广场终端-27",
+      "type": "ONBOARD",
+      "status": "ONLINE",
+      "location": "人民广场",
+      "coordinates": {
+        "lat": 31.38511377666455,
+        "lng": 121.2750624127753
+      },
+      "lastHeartbeat": "2026-02-26T06:52:14.213Z",
+      "batteryLevel": 51,
+      "storageUsed": 24,
+      "firmwareVersion": "v2.1.9",
+      "ipAddress": "192.168.2.131",
+      "dailyTransactions": 960,
+      "dailyRevenue": 297
+    },
+    {
+      "id": "TERM-DEMO-028",
+      "name": "机场终端-28",
+      "type": "TOPUP",
+      "status": "ONLINE",
+      "location": "机场",
+      "coordinates": {
+        "lat": 31.416507555380683,
+        "lng": 121.24526845091755
+      },
+      "lastHeartbeat": "2026-02-25T19:38:57.428Z",
+      "batteryLevel": 8,
+      "storageUsed": 18,
+      "firmwareVersion": "v2.1.2",
+      "ipAddress": "192.168.8.94",
+      "dailyTransactions": 609,
+      "dailyRevenue": 3430
+    },
+    {
+      "id": "TERM-DEMO-029",
+      "name": "市中心站终端-29",
+      "type": "VALIDATOR",
+      "status": "ONLINE",
+      "location": "市中心站",
+      "coordinates": {
+        "lat": 31.438222624499772,
+        "lng": 121.21063039723605
+      },
+      "lastHeartbeat": "2026-02-26T07:37:00.791Z",
+      "batteryLevel": 61,
+      "storageUsed": 0,
+      "firmwareVersion": "v2.1.7",
+      "ipAddress": "192.168.2.141",
+      "dailyTransactions": 363,
+      "dailyRevenue": 4221
+    },
+    {
+      "id": "TERM-DEMO-030",
+      "name": "火车站终端-30",
+      "type": "ONBOARD",
+      "status": "ONLINE",
+      "location": "火车站",
+      "coordinates": {
+        "lat": 31.005381348344997,
+        "lng": 121.09022786733591
+      },
+      "lastHeartbeat": "2026-02-25T14:44:07.715Z",
+      "batteryLevel": 82,
+      "storageUsed": 78,
+      "firmwareVersion": "v2.1.1",
+      "ipAddress": "192.168.9.205",
+      "dailyTransactions": 575,
+      "dailyRevenue": 1081
+    },
+    {
+      "id": "TERM-DEMO-031",
+      "name": "市中心站终端-31",
+      "type": "ONBOARD",
+      "status": "OFFLINE",
+      "location": "市中心站",
+      "coordinates": {
+        "lat": 31.33381951247939,
+        "lng": 121.43253520042533
+      },
+      "lastHeartbeat": "2026-02-25T16:32:32.039Z",
+      "batteryLevel": 14,
+      "storageUsed": 31,
+      "firmwareVersion": "v2.1.2",
+      "ipAddress": "192.168.8.34",
+      "dailyTransactions": 0,
+      "dailyRevenue": 0
+    },
+    {
+      "id": "TERM-DEMO-032",
+      "name": "大学城终端-32",
+      "type": "TOPUP",
+      "status": "ONLINE",
+      "location": "大学城",
+      "coordinates": {
+        "lat": 31.17291584647283,
+        "lng": 121.35687770833917
+      },
+      "lastHeartbeat": "2026-02-26T08:21:50.734Z",
+      "batteryLevel": 69,
+      "storageUsed": 22,
+      "firmwareVersion": "v2.1.0",
+      "ipAddress": "192.168.9.200",
+      "dailyTransactions": 53,
+      "dailyRevenue": 463
+    },
+    {
+      "id": "TERM-DEMO-033",
+      "name": "人民广场终端-33",
+      "type": "ONBOARD",
+      "status": "ONLINE",
+      "location": "人民广场",
+      "coordinates": {
+        "lat": 31.20961688163323,
+        "lng": 121.09244113800102
+      },
+      "lastHeartbeat": "2026-02-25T14:46:42.936Z",
+      "batteryLevel": 41,
+      "storageUsed": 52,
+      "firmwareVersion": "v2.1.4",
+      "ipAddress": "192.168.3.86",
+      "dailyTransactions": 731,
+      "dailyRevenue": 3522
+    },
+    {
+      "id": "TERM-DEMO-034",
+      "name": "大学城终端-34",
+      "type": "TOPUP",
+      "status": "ONLINE",
+      "location": "大学城",
+      "coordinates": {
+        "lat": 31.27060177557206,
+        "lng": 121.04214209825378
+      },
+      "lastHeartbeat": "2026-02-25T16:38:00.307Z",
+      "batteryLevel": 76,
+      "storageUsed": 73,
+      "firmwareVersion": "v2.1.7",
+      "ipAddress": "192.168.3.22",
+      "dailyTransactions": 896,
+      "dailyRevenue": 1027
+    },
+    {
+      "id": "TERM-DEMO-035",
+      "name": "机场终端-35",
+      "type": "VALIDATOR",
+      "status": "ONLINE",
+      "location": "机场",
+      "coordinates": {
+        "lat": 31.365605865386627,
+        "lng": 121.42630226092984
+      },
+      "lastHeartbeat": "2026-02-26T07:28:29.979Z",
+      "batteryLevel": 28,
+      "storageUsed": 26,
+      "firmwareVersion": "v2.1.9",
+      "ipAddress": "192.168.3.85",
+      "dailyTransactions": 647,
+      "dailyRevenue": 1260
+    },
+    {
+      "id": "TERM-DEMO-036",
+      "name": "机场终端-36",
+      "type": "VALIDATOR",
+      "status": "MAINTENANCE",
+      "location": "机场",
+      "coordinates": {
+        "lat": 31.108733458614207,
+        "lng": 121.29066531562052
+      },
+      "lastHeartbeat": "2026-02-26T07:34:08.661Z",
+      "batteryLevel": 41,
+      "storageUsed": 25,
+      "firmwareVersion": "v2.1.5",
+      "ipAddress": "192.168.8.35",
+      "dailyTransactions": 0,
+      "dailyRevenue": 0
+    },
+    {
+      "id": "TERM-DEMO-037",
+      "name": "市中心站终端-37",
+      "type": "ONBOARD",
+      "status": "ONLINE",
+      "location": "市中心站",
+      "coordinates": {
+        "lat": 31.413687624479493,
+        "lng": 121.45113772945926
+      },
+      "lastHeartbeat": "2026-02-25T14:46:09.622Z",
+      "batteryLevel": 50,
+      "storageUsed": 68,
+      "firmwareVersion": "v2.1.7",
+      "ipAddress": "192.168.7.182",
+      "dailyTransactions": 519,
+      "dailyRevenue": 2176
+    },
+    {
+      "id": "TERM-DEMO-038",
+      "name": "市中心站终端-38",
+      "type": "ONBOARD",
+      "status": "ONLINE",
+      "location": "市中心站",
+      "coordinates": {
+        "lat": 31.10824206254674,
+        "lng": 121.04845220892219
+      },
+      "lastHeartbeat": "2026-02-26T08:25:07.723Z",
+      "batteryLevel": 45,
+      "storageUsed": 78,
+      "firmwareVersion": "v2.1.4",
+      "ipAddress": "192.168.9.213",
+      "dailyTransactions": 442,
+      "dailyRevenue": 1929
+    },
+    {
+      "id": "TERM-DEMO-039",
+      "name": "机场终端-39",
+      "type": "VALIDATOR",
+      "status": "MAINTENANCE",
+      "location": "机场",
+      "coordinates": {
+        "lat": 31.472642385082157,
+        "lng": 121.23823153589314
+      },
+      "lastHeartbeat": "2026-02-25T20:57:48.414Z",
+      "batteryLevel": 9,
+      "storageUsed": 33,
+      "firmwareVersion": "v2.1.4",
+      "ipAddress": "192.168.3.34",
+      "dailyTransactions": 0,
+      "dailyRevenue": 0
+    },
+    {
+      "id": "TERM-DEMO-040",
+      "name": "市中心站终端-40",
+      "type": "TOPUP",
+      "status": "ONLINE",
+      "location": "市中心站",
+      "coordinates": {
+        "lat": 31.031344814240402,
+        "lng": 121.26140831409907
+      },
+      "lastHeartbeat": "2026-02-25T21:11:09.203Z",
+      "batteryLevel": 0,
+      "storageUsed": 39,
+      "firmwareVersion": "v2.1.2",
+      "ipAddress": "192.168.4.176",
+      "dailyTransactions": 949,
+      "dailyRevenue": 1596
+    },
+    {
+      "id": "TERM-DEMO-041",
+      "name": "机场终端-41",
+      "type": "ONBOARD",
+      "status": "ONLINE",
+      "location": "机场",
+      "coordinates": {
+        "lat": 31.099182500846695,
+        "lng": 121.21250057447814
+      },
+      "lastHeartbeat": "2026-02-26T08:57:16.142Z",
+      "batteryLevel": 14,
+      "storageUsed": 28,
+      "firmwareVersion": "v2.1.7",
+      "ipAddress": "192.168.3.99",
+      "dailyTransactions": 934,
+      "dailyRevenue": 464
+    },
+    {
+      "id": "TERM-DEMO-042",
+      "name": "机场终端-42",
+      "type": "ONBOARD",
+      "status": "ONLINE",
+      "location": "机场",
+      "coordinates": {
+        "lat": 31.06244613354797,
+        "lng": 121.10549487524464
+      },
+      "lastHeartbeat": "2026-02-25T21:17:31.511Z",
+      "batteryLevel": 48,
+      "storageUsed": 18,
+      "firmwareVersion": "v2.1.9",
+      "ipAddress": "192.168.6.220",
+      "dailyTransactions": 306,
+      "dailyRevenue": 2790
+    },
+    {
+      "id": "TERM-DEMO-043",
+      "name": "商业区终端-43",
+      "type": "VALIDATOR",
+      "status": "OFFLINE",
+      "location": "商业区",
+      "coordinates": {
+        "lat": 31.022632374819075,
+        "lng": 121.20172337119928
+      },
+      "lastHeartbeat": "2026-02-25T16:42:58.043Z",
+      "batteryLevel": 49,
+      "storageUsed": 63,
+      "firmwareVersion": "v2.1.3",
+      "ipAddress": "192.168.8.171",
+      "dailyTransactions": 0,
+      "dailyRevenue": 0
+    },
+    {
+      "id": "TERM-DEMO-044",
+      "name": "火车站终端-44",
+      "type": "VALIDATOR",
+      "status": "ONLINE",
+      "location": "火车站",
+      "coordinates": {
+        "lat": 31.065346647369395,
+        "lng": 121.31109100121495
+      },
+      "lastHeartbeat": "2026-02-26T02:18:15.193Z",
+      "batteryLevel": 91,
+      "storageUsed": 17,
+      "firmwareVersion": "v2.1.4",
+      "ipAddress": "192.168.7.171",
+      "dailyTransactions": 180,
+      "dailyRevenue": 3373
+    },
+    {
+      "id": "TERM-DEMO-045",
+      "name": "大学城终端-45",
+      "type": "TOPUP",
+      "status": "MAINTENANCE",
+      "location": "大学城",
+      "coordinates": {
+        "lat": 31.107206658254825,
+        "lng": 121.4661340268822
+      },
+      "lastHeartbeat": "2026-02-25T21:48:13.149Z",
+      "batteryLevel": 82,
+      "storageUsed": 54,
+      "firmwareVersion": "v2.1.3",
+      "ipAddress": "192.168.1.211",
+      "dailyTransactions": 0,
+      "dailyRevenue": 0
+    },
+    {
+      "id": "TERM-DEMO-046",
+      "name": "机场终端-46",
+      "type": "ONBOARD",
+      "status": "OFFLINE",
+      "location": "机场",
+      "coordinates": {
+        "lat": 31.118286998577826,
+        "lng": 121.20360691458885
+      },
+      "lastHeartbeat": "2026-02-25T19:29:32.443Z",
+      "batteryLevel": 38,
+      "storageUsed": 28,
+      "firmwareVersion": "v2.1.9",
+      "ipAddress": "192.168.0.53",
+      "dailyTransactions": 0,
+      "dailyRevenue": 0
+    },
+    {
+      "id": "TERM-DEMO-047",
+      "name": "机场终端-47",
+      "type": "ONBOARD",
+      "status": "ONLINE",
+      "location": "机场",
+      "coordinates": {
+        "lat": 31.15661583737596,
+        "lng": 121.11769480174256
+      },
+      "lastHeartbeat": "2026-02-25T20:18:44.825Z",
+      "batteryLevel": 70,
+      "storageUsed": 57,
+      "firmwareVersion": "v2.1.1",
+      "ipAddress": "192.168.6.29",
+      "dailyTransactions": 299,
+      "dailyRevenue": 407
+    },
+    {
+      "id": "TERM-DEMO-048",
+      "name": "商业区终端-48",
+      "type": "TOPUP",
+      "status": "OFFLINE",
+      "location": "商业区",
+      "coordinates": {
+        "lat": 31.318494135648514,
+        "lng": 121.01004882230482
+      },
+      "lastHeartbeat": "2026-02-26T09:10:43.253Z",
+      "batteryLevel": 33,
+      "storageUsed": 24,
+      "firmwareVersion": "v2.1.6",
+      "ipAddress": "192.168.0.70",
+      "dailyTransactions": 0,
+      "dailyRevenue": 0
+    },
+    {
+      "id": "TERM-DEMO-049",
+      "name": "人民广场终端-49",
+      "type": "VALIDATOR",
+      "status": "ONLINE",
+      "location": "人民广场",
+      "coordinates": {
+        "lat": 31.373803163431646,
+        "lng": 121.14954657899527
+      },
+      "lastHeartbeat": "2026-02-25T18:15:45.922Z",
+      "batteryLevel": 81,
+      "storageUsed": 57,
+      "firmwareVersion": "v2.1.9",
+      "ipAddress": "192.168.9.224",
+      "dailyTransactions": 332,
+      "dailyRevenue": 2689
+    },
+    {
+      "id": "TERM-DEMO-050",
+      "name": "商业区终端-50",
+      "type": "TOPUP",
+      "status": "ONLINE",
+      "location": "商业区",
+      "coordinates": {
+        "lat": 31.435738211873925,
+        "lng": 121.05871881446542
+      },
+      "lastHeartbeat": "2026-02-25T13:05:38.971Z",
+      "batteryLevel": 41,
+      "storageUsed": 40,
+      "firmwareVersion": "v2.1.1",
+      "ipAddress": "192.168.2.178",
+      "dailyTransactions": 193,
+      "dailyRevenue": 2019
+    }
+  ],
+  "total": 50,
+  "page": 1,
+  "pageSize": 50,
+  "totalPages": 1
+}

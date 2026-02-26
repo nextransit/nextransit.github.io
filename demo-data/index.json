@@ -1,0 +1,47 @@
+{
+  "version": "1.0.0",
+  "generatedAt": "2026-02-26T10:02:20.663Z",
+  "description": "静态演示数据 - 无需后端支持",
+  "endpoints": [
+    {
+      "name": "cards",
+      "path": "/demo-data/cards.json",
+      "method": "GET"
+    },
+    {
+      "name": "transactions",
+      "path": "/demo-data/transactions.json",
+      "method": "GET"
+    },
+    {
+      "name": "terminals",
+      "path": "/demo-data/terminals.json",
+      "method": "GET"
+    },
+    {
+      "name": "dashboard",
+      "path": "/demo-data/dashboard.json",
+      "method": "GET"
+    },
+    {
+      "name": "transit",
+      "path": "/demo-data/transit.json",
+      "method": "GET"
+    },
+    {
+      "name": "mdm",
+      "path": "/demo-data/mdm.json",
+      "method": "GET"
+    },
+    {
+      "name": "user",
+      "path": "/demo-data/user.json",
+      "method": "GET"
+    },
+    {
+      "name": "reports",
+      "path": "/demo-data/reports.json",
+      "method": "GET"
+    }
+  ]
+}

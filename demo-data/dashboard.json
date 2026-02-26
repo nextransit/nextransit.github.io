@@ -1,0 +1,106 @@
+{
+  "stats": {
+    "totalCards": 15420,
+    "activeCards": 14250,
+    "suspendedCards": 680,
+    "blacklistedCards": 490,
+    "todayTransactions": 3256,
+    "todayRevenue": 28560.5,
+    "yesterdayTransactions": 3102,
+    "yesterdayRevenue": 27230,
+    "onlineTerminals": 142,
+    "offlineTerminals": 8,
+    "maintenanceTerminals": 6,
+    "totalDevices": 48,
+    "onlineDevices": 42,
+    "alerts": 3
+  },
+  "recentActivity": [
+    {
+      "action": "card_issued",
+      "user": "管理员A",
+      "time": "2026-02-07T14:30:00Z",
+      "details": "发放了新卡 CARD****1234"
+    },
+    {
+      "action": "transaction_completed",
+      "user": "系统自动",
+      "time": "2026-02-07T14:25:00Z",
+      "details": "交易 TXN-12345 完成"
+    },
+    {
+      "action": "terminal_offline",
+      "user": "系统监控",
+      "time": "2026-02-07T14:20:00Z",
+      "details": "终端 TERM-004 离线"
+    },
+    {
+      "action": "recharge_success",
+      "user": "客服B",
+      "time": "2026-02-07T14:15:00Z",
+      "details": "充值 100元 成功"
+    },
+    {
+      "action": "card_suspended",
+      "user": "管理员C",
+      "time": "2026-02-07T14:10:00Z",
+      "details": "暂停卡片 CARD****5678"
+    }
+  ],
+  "charts": {
+    "weeklyTransactions": {
+      "labels": [
+        "周一",
+        "周二",
+        "周三",
+        "周四",
+        "周五",
+        "周六",
+        "周日"
+      ],
+      "data": [
+        2800,
+        3100,
+        2950,
+        3200,
+        3400,
+        3800,
+        3256
+      ]
+    },
+    "weeklyRevenue": {
+      "labels": [
+        "周一",
+        "周二",
+        "周三",
+        "周四",
+        "周五",
+        "周六",
+        "周日"
+      ],
+      "data": [
+        24500,
+        27200,
+        25800,
+        28500,
+        29800,
+        33500,
+        28560
+      ]
+    },
+    "cardTypeDistribution": {
+      "labels": [
+        "标准卡",
+        "学生卡",
+        "老年卡",
+        "员工卡"
+      ],
+      "data": [
+        8200,
+        4200,
+        2100,
+        920
+      ]
+    }
+  }
+}

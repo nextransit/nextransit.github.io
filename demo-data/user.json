@@ -1,0 +1,33 @@
+{
+  "user": {
+    "id": "USER-DEMO-001",
+    "username": "demo_user",
+    "email": "demo@example.com",
+    "displayName": "演示用户",
+    "role": "OPERATOR",
+    "permissions": [
+      "cards:view",
+      "cards:create",
+      "cards:update",
+      "transactions:view",
+      "transactions:export",
+      "terminals:view",
+      "terminals:control",
+      "reports:view",
+      "dashboard:view"
+    ],
+    "settings": {
+      "theme": "system",
+      "language": "zh",
+      "notifications": true
+    },
+    "createdAt": "2025-01-01T00:00:00Z",
+    "lastLoginAt": "2026-02-07T14:00:00Z"
+  },
+  "session": {
+    "token": "demo-token-static-2026",
+    "expiresAt": "2026-02-07T23:59:59Z",
+    "mode": "STATIC_DEMO",
+    "message": "This is a static demo session. No backend is required."
+  }
+}

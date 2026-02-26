@@ -1,0 +1,41 @@
+{
+  "daily": {
+    "date": "2026-02-07",
+    "totalTransactions": 3256,
+    "totalRevenue": 28560.5,
+    "newCards": 45,
+    "activeCards": 14250,
+    "failedTransactions": 48
+  },
+  "weekly": {
+    "startDate": "2026-02-01",
+    "endDate": "2026-02-07",
+    "totalTransactions": 22785,
+    "totalRevenue": 198450.75,
+    "newCards": 320,
+    "averageDailyTransactions": 3255
+  },
+  "monthly": {
+    "month": "2026-02",
+    "totalTransactions": 98250,
+    "totalRevenue": 856420,
+    "newCards": 1280,
+    "topStations": [
+      {
+        "name": "市中心站",
+        "transactions": 12500,
+        "revenue": 108500
+      },
+      {
+        "name": "火车站",
+        "transactions": 9800,
+        "revenue": 85600
+      },
+      {
+        "name": "机场",
+        "transactions": 7600,
+        "revenue": 66500
+      }
+    ]
+  }
+}

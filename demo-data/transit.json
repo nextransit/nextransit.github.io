@@ -1,0 +1,236 @@
+{
+  "routes": {
+    "data": [
+      {
+        "id": "ROUTE-DEMO-001",
+        "name": "1号线",
+        "code": "L1",
+        "type": "LINEAR",
+        "color": "#E60012",
+        "distance": 32.5,
+        "stations": [
+          "STATION-DEMO-001",
+          "STATION-DEMO-002",
+          "STATION-DEMO-003",
+          "STATION-DEMO-004",
+          "STATION-DEMO-005"
+        ],
+        "firstBusTime": "05:30",
+        "lastBusTime": "23:30",
+        "frequency": 5,
+        "status": "ACTIVE",
+        "createdAt": "2020-01-01T00:00:00Z",
+        "updatedAt": "2025-01-01T00:00:00Z"
+      },
+      {
+        "id": "ROUTE-DEMO-002",
+        "name": "2号线",
+        "code": "L2",
+        "type": "LINEAR",
+        "color": "#009944",
+        "distance": 28.8,
+        "stations": [
+          "STATION-DEMO-006",
+          "STATION-DEMO-007",
+          "STATION-DEMO-008",
+          "STATION-DEMO-009",
+          "STATION-DEMO-010"
+        ],
+        "firstBusTime": "05:30",
+        "lastBusTime": "23:30",
+        "frequency": 6,
+        "status": "ACTIVE",
+        "createdAt": "2020-06-01T00:00:00Z",
+        "updatedAt": "2025-01-01T00:00:00Z"
+      },
+      {
+        "id": "ROUTE-DEMO-101",
+        "name": "机场线",
+        "code": "AIRPORT",
+        "type": "EXPRESS",
+        "color": "#9B59B6",
+        "distance": 65,
+        "stations": [
+          "STATION-DEMO-001",
+          "STATION-DEMO-016",
+          "STATION-DEMO-017"
+        ],
+        "firstBusTime": "06:00",
+        "lastBusTime": "22:30",
+        "frequency": 15,
+        "status": "ACTIVE",
+        "createdAt": "2019-01-01T00:00:00Z",
+        "updatedAt": "2025-01-01T00:00:00Z"
+      },
+      {
+        "id": "ROUTE-DEMO-201",
+        "name": "101路公交",
+        "code": "B101",
+        "type": "SHUTTLE",
+        "color": "#3498DB",
+        "distance": 18.5,
+        "stations": [
+          "STATION-DEMO-018",
+          "STATION-DEMO-019",
+          "STATION-DEMO-020",
+          "STATION-DEMO-021"
+        ],
+        "firstBusTime": "06:00",
+        "lastBusTime": "21:00",
+        "frequency": 12,
+        "status": "ACTIVE",
+        "createdAt": "2018-01-01T00:00:00Z",
+        "updatedAt": "2025-01-01T00:00:00Z"
+      }
+    ],
+    "total": 4
+  },
+  "stations": {
+    "data": [
+      {
+        "id": "STATION-DEMO-001",
+        "name": "市中心站",
+        "code": "CENTER",
+        "type": "TRANSFER",
+        "coordinates": {
+          "lat": 31.2304,
+          "lng": 121.4737
+        },
+        "routes": [
+          "ROUTE-DEMO-001",
+          "ROUTE-DEMO-002",
+          "ROUTE-DEMO-101"
+        ],
+        "facilities": [
+          "SHELTER",
+          "BENCH",
+          "WHEELCHAIR"
+        ],
+        "status": "ACTIVE",
+        "dailyPassengers": 85000
+      },
+      {
+        "id": "STATION-DEMO-002",
+        "name": "人民广场站",
+        "code": "PEOPLE_SQ",
+        "type": "NORMAL",
+        "coordinates": {
+          "lat": 31.235,
+          "lng": 121.48
+        },
+        "routes": [
+          "ROUTE-DEMO-001"
+        ],
+        "facilities": [
+          "SHELTER",
+          "BENCH"
+        ],
+        "status": "ACTIVE",
+        "dailyPassengers": 45000
+      },
+      {
+        "id": "STATION-DEMO-003",
+        "name": "火车站",
+        "code": "RAILWAY",
+        "type": "TRANSFER",
+        "coordinates": {
+          "lat": 31.25,
+          "lng": 121.49
+        },
+        "routes": [
+          "ROUTE-DEMO-001"
+        ],
+        "facilities": [
+          "SHELTER",
+          "BENCH",
+          "WHEELCHAIR",
+          "BIKE_RACK"
+        ],
+        "status": "ACTIVE",
+        "dailyPassengers": 120000
+      },
+      {
+        "id": "STATION-DEMO-016",
+        "name": "机场T1航站楼",
+        "code": "AIRPORT_T1",
+        "type": "TERMINAL",
+        "coordinates": {
+          "lat": 31.15,
+          "lng": 121.8
+        },
+        "routes": [
+          "ROUTE-DEMO-101"
+        ],
+        "facilities": [
+          "SHELTER",
+          "BENCH",
+          "WHEELCHAIR",
+          "BIKE_RACK"
+        ],
+        "status": "ACTIVE",
+        "dailyPassengers": 65000
+      }
+    ],
+    "total": 4
+  },
+  "vehicles": {
+    "data": [
+      {
+        "id": "VEHICLE-DEMO-001",
+        "plateNumber": "沪A12345",
+        "type": "SUBWAY",
+        "model": "A型地铁列车",
+        "capacity": 1860,
+        "routeId": "ROUTE-DEMO-001",
+        "driverName": "张师傅",
+        "driverId": "DRIVER-001",
+        "status": "IN_SERVICE",
+        "lastMaintenance": "2026-01-15T00:00:00Z",
+        "nextMaintenance": "2026-03-15T00:00:00Z",
+        "gpsLocation": {
+          "lat": 31.2304,
+          "lng": 121.4737,
+          "timestamp": "2026-02-07T14:30:00Z"
+        },
+        "currentSpeed": 45,
+        "currentStation": "STATION-DEMO-001",
+        "nextStation": "STATION-DEMO-002",
+        "passengerCount": 850
+      },
+      {
+        "id": "VEHICLE-DEMO-002",
+        "plateNumber": "沪A12346",
+        "type": "SUBWAY",
+        "model": "A型地铁列车",
+        "capacity": 1860,
+        "routeId": "ROUTE-DEMO-001",
+        "driverName": "李师傅",
+        "driverId": "DRIVER-002",
+        "status": "IN_SERVICE",
+        "lastMaintenance": "2026-01-10T00:00:00Z",
+        "nextMaintenance": "2026-03-10T00:00:00Z",
+        "gpsLocation": {
+          "lat": 31.235,
+          "lng": 121.48,
+          "timestamp": "2026-02-07T14:28:00Z"
+        },
+        "currentSpeed": 50,
+        "currentStation": "STATION-DEMO-002",
+        "nextStation": "STATION-DEMO-003",
+        "passengerCount": 920
+      }
+    ],
+    "total": 2
+  },
+  "analytics": {
+    "totalRoutes": 5,
+    "totalStations": 48,
+    "totalVehicles": 156,
+    "activeVehicles": 142,
+    "dailyPassengers": 2850000,
+    "dailyRevenue": 4560000,
+    "averageOccupancy": 68.5,
+    "onTimePerformance": 96.8,
+    "averageSpeed": 38.2
+  }
+}

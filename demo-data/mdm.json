@@ -1,0 +1,157 @@
+{
+  "devices": {
+    "data": [
+      {
+        "id": "DEV-DEMO-001",
+        "type": "P18Q",
+        "serialNumber": "SN202501001",
+        "firmwareVersion": "v2.5.1",
+        "status": "ACTIVE",
+        "vehicleId": "BUS-001",
+        "terminalId": "TERM-DEMO-005",
+        "lastActivityAt": "2026-02-07T14:30:00Z",
+        "registeredAt": "2025-01-15T08:00:00Z",
+        "metadata": {
+          "manufacturer": "DemoCorp",
+          "model": "P18Q",
+          "batteryLevel": 85,
+          "storageUsed": 38,
+          "memoryUsed": 42,
+          "ipAddress": "192.168.1.101"
+        },
+        "capabilities": [
+          {
+            "type": "NFC",
+            "status": "OPERATIONAL"
+          },
+          {
+            "type": "QR_CODE",
+            "status": "OPERATIONAL"
+          }
+        ],
+        "healthScore": 95,
+        "batteryLevel": 85,
+        "cpuUsage": 35,
+        "memoryUsage": 42,
+        "storageUsage": 38,
+        "temperature": 42
+      },
+      {
+        "id": "DEV-DEMO-002",
+        "type": "P18Q",
+        "serialNumber": "SN202501002",
+        "firmwareVersion": "v2.5.1",
+        "status": "ACTIVE",
+        "vehicleId": "BUS-002",
+        "terminalId": "TERM-DEMO-007",
+        "lastActivityAt": "2026-02-07T14:28:00Z",
+        "registeredAt": "2025-01-20T09:30:00Z",
+        "metadata": {
+          "manufacturer": "DemoCorp",
+          "model": "P18Q",
+          "batteryLevel": 72,
+          "storageUsed": 42,
+          "memoryUsed": 55,
+          "ipAddress": "192.168.1.102"
+        },
+        "capabilities": [
+          {
+            "type": "NFC",
+            "status": "OPERATIONAL"
+          }
+        ],
+        "healthScore": 88,
+        "batteryLevel": 72,
+        "cpuUsage": 45,
+        "memoryUsage": 55,
+        "storageUsage": 42,
+        "temperature": 48
+      },
+      {
+        "id": "DEV-DEMO-003",
+        "type": "T10X",
+        "serialNumber": "SN202502015",
+        "firmwareVersion": "v2.4.8",
+        "status": "OFFLINE",
+        "vehicleId": "BUS-015",
+        "terminalId": "TERM-DEMO-015",
+        "lastActivityAt": "2026-02-06T18:00:00Z",
+        "registeredAt": "2025-02-15T10:00:00Z",
+        "metadata": {
+          "manufacturer": "DemoCorp",
+          "model": "T10X",
+          "batteryLevel": 12,
+          "storageUsed": 65,
+          "memoryUsed": 0,
+          "ipAddress": "192.168.1.103"
+        },
+        "capabilities": [
+          {
+            "type": "NFC",
+            "status": "NOT_AVAILABLE"
+          }
+        ],
+        "healthScore": 45,
+        "batteryLevel": 12,
+        "cpuUsage": 0,
+        "memoryUsage": 0,
+        "storageUsage": 65,
+        "temperature": 25
+      },
+      {
+        "id": "DEV-DEMO-004",
+        "type": "P18Q",
+        "serialNumber": "SN202503022",
+        "firmwareVersion": "v2.5.0",
+        "status": "MAINTENANCE",
+        "vehicleId": "BUS-022",
+        "terminalId": "TERM-DEMO-022",
+        "lastActivityAt": "2026-02-05T16:00:00Z",
+        "registeredAt": "2025-03-01T14:00:00Z",
+        "metadata": {
+          "manufacturer": "DemoCorp",
+          "model": "P18Q",
+          "batteryLevel": 45,
+          "storageUsed": 75,
+          "memoryUsed": 82,
+          "ipAddress": "192.168.1.104"
+        },
+        "capabilities": [
+          {
+            "type": "NFC",
+            "status": "MAINTENANCE"
+          }
+        ],
+        "healthScore": 62,
+        "batteryLevel": 45,
+        "cpuUsage": 78,
+        "memoryUsage": 82,
+        "storageUsage": 75,
+        "temperature": 68
+      }
+    ],
+    "total": 4
+  },
+  "metrics": {
+    "totalDevices": 48,
+    "onlineDevices": 42,
+    "offlineDevices": 4,
+    "maintenanceDevices": 2,
+    "avgCpuUsage": 38.5,
+    "avgMemoryUsage": 52.3,
+    "avgBatteryLevel": 76.8,
+    "alertsToday": 3,
+    "upgradesInProgress": 2
+  },
+  "fleetHealth": {
+    "averageScore": 82,
+    "totalDevices": 48,
+    "healthDistribution": {
+      "EXCELLENT": 18,
+      "GOOD": 20,
+      "FAIR": 6,
+      "POOR": 3,
+      "CRITICAL": 1
+    }
+  }
+}
